@@ -31,27 +31,27 @@
     "translation": "скарга",
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
   },
   {
     "word": "der Vertrag",
     "translation": "договір",
     "example": "Wir haben den Vertrag unterschrieben.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
   },
   {
     "word": "kündigen",
     "translation": "звільнятися / розривати договір",
     "example": "Sie hat ihren Job gekündigt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
   },
   {
     "word": "die Bewerbung",
