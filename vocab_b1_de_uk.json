@@ -4,54 +4,54 @@
     "translation": "досвід",
     "example": "Sie hat viel Erfahrung im Verkauf.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "die Verantwortung",
     "translation": "відповідальність",
     "example": "Er trägt viel Verantwortung in seinem Job.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "sich beschweren",
     "translation": "скаржитися",
     "example": "Der Kunde hat sich über den Service beschwert.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "die Beschwerde",
     "translation": "скарга",
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "der Vertrag",
     "translation": "договір",
     "example": "Wir haben den Vertrag unterschrieben.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "kündigen",
     "translation": "звільнятися / розривати договір",
     "example": "Sie hat ihren Job gekündigt.",
     "type": "word",
-    "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-04"
+    "status": "new",
+    "box": 0,
+    "next_due": null
   },
   {
     "word": "die Bewerbung",
@@ -437,8 +437,8 @@
     "example": "Es regnete, trotzdem sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-15"
+    "box": 2,
+    "next_due": "2026-09-01"
   },
   {
     "word": "obwohl",
@@ -446,8 +446,8 @@
     "example": "Obwohl es regnete, sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-15"
+    "box": 2,
+    "next_due": "2026-09-01"
   },
   {
     "word": "allerdings",
@@ -490,6 +490,906 @@
     "translation": "все ж таки / тим не менш",
     "example": "Es war schwer, dennoch hat sie es geschafft.",
     "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Behörde",
+    "translation": "орган влади / установа",
+    "example": "Ich muss zur Behörde, um die Anmeldung zu erledigen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Anmeldung",
+    "translation": "реєстрація (прописка)",
+    "example": "Die Anmeldung muss innerhalb von 14 Tagen erfolgen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Aufenthaltsbewilligung",
+    "translation": "дозвіл на проживання",
+    "example": "Er hat eine neue Aufenthaltsbewilligung beantragt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "beantragen",
+    "translation": "подавати заяву на щось",
+    "example": "Sie hat ein Visum beantragt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Bescheinigung",
+    "translation": "довідка",
+    "example": "Ich brauche eine Bescheinigung von der Schule.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Steuererklärung",
+    "translation": "податкова декларація",
+    "example": "Die Steuererklärung muss bis Ende März abgegeben werden.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Gebühr",
+    "translation": "збір / плата",
+    "example": "Für den Reisepass fällt eine Gebühr an.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Frist",
+    "translation": "термін / дедлайн",
+    "example": "Die Frist für die Anmeldung läuft morgen ab.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Unterlagen",
+    "translation": "документи",
+    "example": "Bitte bringen Sie alle Unterlagen mit.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Antrag",
+    "translation": "заява (документ)",
+    "example": "Der Antrag wurde genehmigt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Einkommen",
+    "translation": "дохід",
+    "example": "Sein Einkommen ist in den letzten Jahren gestiegen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sparen",
+    "translation": "заощаджувати",
+    "example": "Wir sparen für ein neues Auto.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Ausgabe",
+    "translation": "витрата",
+    "example": "Die monatlichen Ausgaben sind hoch.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Budget",
+    "translation": "бюджет",
+    "example": "Wir müssen unser Budget planen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Rechnung",
+    "translation": "рахунок",
+    "example": "Ich habe die Rechnung schon bezahlt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Kredit",
+    "translation": "кредит",
+    "example": "Sie haben einen Kredit für die Wohnung aufgenommen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "investieren",
+    "translation": "інвестувати",
+    "example": "Er investiert in Aktien.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Prüfung",
+    "translation": "іспит",
+    "example": "Die Prüfung war schwieriger als erwartet.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "bestehen",
+    "translation": "скласти (іспит)",
+    "example": "Sie hat die Prüfung bestanden.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Abschluss",
+    "translation": "завершення навчання / диплом",
+    "example": "Nach dem Abschluss sucht er eine Stelle.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Fähigkeit",
+    "translation": "здатність / навичка",
+    "example": "Er hat die Fähigkeit, gut zuzuhören.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich konzentrieren",
+    "translation": "зосереджуватися",
+    "example": "Ich kann mich schwer konzentrieren.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Gerät",
+    "translation": "пристрій",
+    "example": "Das Gerät funktioniert nicht mehr.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Anwendung",
+    "translation": "застосунок / додаток",
+    "example": "Diese Anwendung ist sehr nützlich.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "herunterladen",
+    "translation": "завантажувати (файл)",
+    "example": "Ich habe die App heruntergeladen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "speichern",
+    "translation": "зберігати (файл)",
+    "example": "Hast du die Datei gespeichert?",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Sicherheit",
+    "translation": "безпека",
+    "example": "Datensicherheit ist heute sehr wichtig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "zuverlässig",
+    "translation": "надійний",
+    "example": "Er ist ein sehr zuverlässiger Kollege.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "geduldig",
+    "translation": "терплячий",
+    "example": "Sie ist sehr geduldig mit den Kindern.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "ehrlich",
+    "translation": "чесний",
+    "example": "Ich schätze ehrliche Menschen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "neugierig",
+    "translation": "допитливий",
+    "example": "Kinder sind oft sehr neugierig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "selbstständig",
+    "translation": "самостійний",
+    "example": "Er arbeitet gern selbstständig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich freuen",
+    "translation": "радіти",
+    "example": "Ich freue mich auf das Wochenende.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "enttäuscht",
+    "translation": "розчарований",
+    "example": "Sie war von dem Ergebnis enttäuscht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "stolz",
+    "translation": "гордий",
+    "example": "Die Eltern sind stolz auf ihre Tochter.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich ärgern",
+    "translation": "злитися / дратуватися",
+    "example": "Er ärgert sich über die Verspätung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich Sorgen machen",
+    "translation": "хвилюватися",
+    "example": "Ich mache mir Sorgen um ihn.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Niederschlag",
+    "translation": "опади",
+    "example": "Für morgen ist starker Niederschlag angesagt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Landschaft",
+    "translation": "краєвид / ландшафт",
+    "example": "Die Landschaft in den Bergen ist wunderschön.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Stau",
+    "translation": "затор (на дорозі)",
+    "example": "Wegen des Staus kamen wir zu spät.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Fahrplan",
+    "translation": "розклад руху",
+    "example": "Der Fahrplan hat sich geändert.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "umsteigen",
+    "translation": "пересідати (на транспорт)",
+    "example": "Sie müssen in Bern umsteigen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Kassenbon",
+    "translation": "касовий чек",
+    "example": "Bewahren Sie den Kassenbon auf.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "umtauschen",
+    "translation": "обмінювати (товар)",
+    "example": "Ich möchte den Pullover umtauschen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Angebot",
+    "translation": "пропозиція / акція",
+    "example": "Das Angebot gilt nur diese Woche.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Gesellschaft",
+    "translation": "суспільство",
+    "example": "Die Gesellschaft verändert sich ständig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Wahl",
+    "translation": "вибори",
+    "example": "Die Wahl findet im Herbst statt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "abstimmen",
+    "translation": "голосувати",
+    "example": "Die Bürger stimmen über das Gesetz ab.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Freizeit",
+    "translation": "вільний час",
+    "example": "In meiner Freizeit lese ich gern.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich entspannen",
+    "translation": "розслаблятися",
+    "example": "Am Wochenende entspanne ich mich.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Haushalt",
+    "translation": "домогосподарство / побут",
+    "example": "Er kümmert sich um den Haushalt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "putzen",
+    "translation": "прибирати",
+    "example": "Ich putze die Wohnung jeden Samstag.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Wäsche",
+    "translation": "білизна (прання)",
+    "example": "Ich muss noch die Wäsche waschen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "reparieren",
+    "translation": "ремонтувати",
+    "example": "Der Techniker hat die Waschmaschine repariert.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Müll",
+    "translation": "сміття",
+    "example": "Bitte trenn den Müll richtig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Mülltrennung",
+    "translation": "сортування сміття",
+    "example": "Die Mülltrennung ist in der Schweiz sehr wichtig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "recyceln",
+    "translation": "переробляти (сміття)",
+    "example": "Wir recyceln Papier und Glas.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Zutat",
+    "translation": "інгредієнт",
+    "example": "Welche Zutaten brauchst du für den Kuchen?",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "braten",
+    "translation": "смажити",
+    "example": "Sie brät das Gemüse in der Pfanne.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Geschmack",
+    "translation": "смак",
+    "example": "Der Geschmack der Suppe ist sehr würzig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "bio",
+    "translation": "органічний / біо",
+    "example": "Wir kaufen meistens Bio-Produkte.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich fit halten",
+    "translation": "підтримувати форму",
+    "example": "Er hält sich mit Joggen fit.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Mannschaft",
+    "translation": "команда",
+    "example": "Unsere Mannschaft hat das Spiel gewonnen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Wettkampf",
+    "translation": "змагання",
+    "example": "Der Wettkampf findet am Samstag statt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Ausstellung",
+    "translation": "виставка",
+    "example": "Die Ausstellung im Museum war beeindruckend.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Aufführung",
+    "translation": "вистава / виступ",
+    "example": "Die Aufführung im Theater dauerte zwei Stunden.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Kunstwerk",
+    "translation": "витвір мистецтва",
+    "example": "Dieses Kunstwerk stammt aus dem 19. Jahrhundert.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Anhang",
+    "translation": "вкладення (файл)",
+    "example": "Ich habe die Datei als Anhang geschickt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "anrufen",
+    "translation": "телефонувати",
+    "example": "Ich rufe dich später an.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "eine Nachricht hinterlassen",
+    "translation": "залишити повідомлення",
+    "example": "Er hat mir eine Nachricht hinterlassen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich verabreden",
+    "translation": "домовлятися про зустріч",
+    "example": "Wir haben uns für Freitag verabredet.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Aussehen",
+    "translation": "зовнішність",
+    "example": "Das Aussehen spielt für sie keine Rolle.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "gepflegt",
+    "translation": "доглянутий",
+    "example": "Er ist immer sehr gepflegt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "rechtzeitig",
+    "translation": "вчасно (заздалегідь)",
+    "example": "Bitte komm rechtzeitig zum Termin.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "pünktlich",
+    "translation": "пунктуальний / точно вчасно",
+    "example": "Der Zug ist pünktlich abgefahren.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "vor kurzem",
+    "translation": "нещодавно",
+    "example": "Wir haben uns vor kurzem kennengelernt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "demnächst",
+    "translation": "незабаром",
+    "example": "Der Film kommt demnächst ins Kino.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Erziehung",
+    "translation": "виховання",
+    "example": "Die Erziehung der Kinder ist nicht immer einfach.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "erziehen",
+    "translation": "виховувати",
+    "example": "Sie erziehen ihre Kinder sehr liebevoll.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Elternurlaub",
+    "translation": "відпустка по догляду за дитиною",
+    "example": "Er nimmt drei Monate Elternurlaub.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Recht",
+    "translation": "право",
+    "example": "Jeder hat das Recht auf Bildung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Pflicht",
+    "translation": "обов'язок",
+    "example": "Steuern zahlen ist eine Pflicht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "erlaubt",
+    "translation": "дозволено",
+    "example": "Rauchen ist hier nicht erlaubt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "verbieten",
+    "translation": "забороняти",
+    "example": "Man hat das Rauchen im Restaurant verboten.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Kollege",
+    "translation": "колега",
+    "example": "Meine Kollegin hilft mir oft.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Teamarbeit",
+    "translation": "командна робота",
+    "example": "Teamarbeit ist in diesem Job sehr wichtig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Karriere",
+    "translation": "кар'єра",
+    "example": "Sie macht eine schnelle Karriere.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "befördern",
+    "translation": "підвищувати на посаді",
+    "example": "Er wurde letztes Jahr befördert.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Überstunde",
+    "translation": "понаднормова робота",
+    "example": "Ich muss heute Überstunden machen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Möbel",
+    "translation": "меблі",
+    "example": "Wir haben neue Möbel gekauft.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "renovieren",
+    "translation": "ремонтувати (приміщення)",
+    "example": "Wir renovieren gerade die Küche.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Balkon",
+    "translation": "балкон",
+    "example": "Im Sommer sitzen wir gern auf dem Balkon.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Zoll",
+    "translation": "митниця",
+    "example": "Am Flughafen mussten wir durch den Zoll.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Grenze",
+    "translation": "кордон",
+    "example": "Die Grenze war nicht weit entfernt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "das Gepäck",
+    "translation": "багаж",
+    "example": "Mein Gepäck ist noch nicht angekommen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Abfall",
+    "translation": "відходи",
+    "example": "Der Abfall wird jede Woche abgeholt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Energie",
+    "translation": "енергія",
+    "example": "Wir sparen Energie, wo es geht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "erneuerbar",
+    "translation": "відновлювальний",
+    "example": "Erneuerbare Energien werden immer wichtiger.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "großzügig",
+    "translation": "щедрий",
+    "example": "Er ist sehr großzügig mit seiner Zeit.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "bescheiden",
+    "translation": "скромний",
+    "example": "Sie ist trotz ihres Erfolgs sehr bescheiden.",
+    "type": "word",
     "status": "new",
     "box": 0,
     "next_due": null
