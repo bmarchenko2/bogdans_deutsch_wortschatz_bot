@@ -1,57 +1,497 @@
 [
-  {"word": "die Erfahrung", "translation": "досвід", "example": "Sie hat viel Erfahrung im Verkauf.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Verantwortung", "translation": "відповідальність", "example": "Er trägt viel Verantwortung in seinem Job.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "sich beschweren", "translation": "скаржитися", "example": "Der Kunde hat sich über den Service beschwert.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Beschwerde", "translation": "скарга", "example": "Ich möchte eine Beschwerde einreichen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Vertrag", "translation": "договір", "example": "Wir haben den Vertrag unterschrieben.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "kündigen", "translation": "звільнятися / розривати договір", "example": "Sie hat ihren Job gekündigt.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Bewerbung", "translation": "заява про прийом на роботу", "example": "Ich schreibe gerade eine Bewerbung.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Lebenslauf", "translation": "резюме", "example": "Der Lebenslauf muss aktuell sein.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Ausbildung", "translation": "професійне навчання", "example": "Er macht eine Ausbildung als Elektriker.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Umzug", "translation": "переїзд", "example": "Der Umzug war sehr stressig.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "umziehen", "translation": "переїжджати", "example": "Wir ziehen nächsten Monat um.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Miete", "translation": "орендна плата", "example": "Die Miete steigt jedes Jahr.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Vermieter", "translation": "орендодавець", "example": "Der Vermieter hat die Wohnung renoviert.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Nachbarschaft", "translation": "сусідство / район", "example": "Die Nachbarschaft ist sehr ruhig.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "sich gewöhnen an", "translation": "звикати до", "example": "Ich habe mich an das Wetter gewöhnt.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Gewohnheit", "translation": "звичка", "example": "Rauchen ist eine schlechte Gewohnheit.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Umwelt", "translation": "довкілля", "example": "Wir müssen die Umwelt schützen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Klimawandel", "translation": "зміна клімату", "example": "Der Klimawandel betrifft uns alle.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "nachhaltig", "translation": "сталий / екологічний", "example": "Wir kaufen nachhaltige Produkte.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Ressource", "translation": "ресурс", "example": "Wasser ist eine wichtige Ressource.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Gesundheit", "translation": "здоров'я", "example": "Gesundheit ist das Wichtigste im Leben.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "sich erkälten", "translation": "застудитися", "example": "Ich habe mich letzte Woche erkältet.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Behandlung", "translation": "лікування", "example": "Die Behandlung dauert mehrere Wochen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Termin", "translation": "запис / зустріч", "example": "Ich habe einen Termin beim Arzt.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Versicherung", "translation": "страхування", "example": "Meine Versicherung übernimmt die Kosten.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "sich fühlen", "translation": "почуватися", "example": "Ich fühle mich heute besser.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Beziehung", "translation": "стосунки", "example": "Sie haben eine gute Beziehung.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Meinung", "translation": "думка", "example": "Meiner Meinung nach ist das falsch.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Vorschlag", "translation": "пропозиція", "example": "Das ist ein guter Vorschlag.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "vorschlagen", "translation": "пропонувати", "example": "Ich schlage vor, früher zu starten.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Entscheidung", "translation": "рішення", "example": "Das war eine schwierige Entscheidung.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "entscheiden", "translation": "вирішувати", "example": "Wir müssen uns bald entscheiden.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Unterschied", "translation": "різниця", "example": "Es gibt einen großen Unterschied.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "vergleichen", "translation": "порівнювати", "example": "Man kann die beiden Angebote vergleichen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Erwartung", "translation": "очікування", "example": "Die Erwartungen waren sehr hoch.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "erwarten", "translation": "очікувати", "example": "Ich erwarte eine schnelle Antwort.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Herausforderung", "translation": "виклик", "example": "Das ist eine große Herausforderung.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "bewältigen", "translation": "долати", "example": "Er hat die Schwierigkeiten gut bewältigt.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Verspätung", "translation": "затримка", "example": "Der Zug hatte eine Stunde Verspätung.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "buchen", "translation": "бронювати", "example": "Wir haben das Hotel online gebucht.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Unterkunft", "translation": "житло / розміщення", "example": "Wir suchen eine günstige Unterkunft.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Sehenswürdigkeit", "translation": "визначна пам'ятка", "example": "Wir haben viele Sehenswürdigkeiten besucht.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Quelle", "translation": "джерело", "example": "Man sollte die Quelle überprüfen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Meinungsfreiheit", "translation": "свобода слова", "example": "Meinungsfreiheit ist ein wichtiges Recht.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "beeinflussen", "translation": "впливати", "example": "Werbung beeinflusst unsere Entscheidungen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "der Einfluss", "translation": "вплив", "example": "Soziale Medien haben großen Einfluss.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "sich engagieren", "translation": "залучатися / бути активним", "example": "Sie engagiert sich für den Umweltschutz.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "die Rücksicht", "translation": "врахування інтересів інших", "example": "Man sollte Rücksicht auf andere nehmen.", "type": "word", "status": "new", "box": 0, "next_due": null},
-  {"word": "trotzdem", "translation": "незважаючи на це / все одно", "example": "Es regnete, trotzdem sind wir spazieren gegangen.", "type": "connector", "status": "learning", "box": 2, "next_due": "2026-09-01"},
-  {"word": "obwohl", "translation": "хоча", "example": "Obwohl es regnete, sind wir spazieren gegangen.", "type": "connector", "status": "learning", "box": 2, "next_due": "2026-09-01"},
-  {"word": "allerdings", "translation": "однак / проте", "example": "Das Wetter war gut, allerdings war es kalt.", "type": "connector", "status": "new", "box": 0, "next_due": null},
-  {"word": "außerdem", "translation": "крім того", "example": "Sie spricht Englisch, außerdem auch Französisch.", "type": "connector", "status": "new", "box": 0, "next_due": null},
-  {"word": "deshalb", "translation": "тому", "example": "Er war krank, deshalb ist er nicht gekommen.", "type": "connector", "status": "new", "box": 0, "next_due": null},
-  {"word": "während", "translation": "тоді як / поки що (протиставлення)", "example": "Während ich Kaffee mag, trinkt sie lieber Tee.", "type": "connector", "status": "new", "box": 0, "next_due": null},
-  {"word": "dennoch", "translation": "все ж таки / тим не менш", "example": "Es war schwer, dennoch hat sie es geschafft.", "type": "connector", "status": "new", "box": 0, "next_due": null}
+  {
+    "word": "die Erfahrung",
+    "translation": "досвід",
+    "example": "Sie hat viel Erfahrung im Verkauf.",
+    "type": "word",
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
+  },
+  {
+    "word": "die Verantwortung",
+    "translation": "відповідальність",
+    "example": "Er trägt viel Verantwortung in seinem Job.",
+    "type": "word",
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
+  },
+  {
+    "word": "sich beschweren",
+    "translation": "скаржитися",
+    "example": "Der Kunde hat sich über den Service beschwert.",
+    "type": "word",
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-04"
+  },
+  {
+    "word": "die Beschwerde",
+    "translation": "скарга",
+    "example": "Ich möchte eine Beschwerde einreichen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Vertrag",
+    "translation": "договір",
+    "example": "Wir haben den Vertrag unterschrieben.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "kündigen",
+    "translation": "звільнятися / розривати договір",
+    "example": "Sie hat ihren Job gekündigt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Bewerbung",
+    "translation": "заява про прийом на роботу",
+    "example": "Ich schreibe gerade eine Bewerbung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Lebenslauf",
+    "translation": "резюме",
+    "example": "Der Lebenslauf muss aktuell sein.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Ausbildung",
+    "translation": "професійне навчання",
+    "example": "Er macht eine Ausbildung als Elektriker.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Umzug",
+    "translation": "переїзд",
+    "example": "Der Umzug war sehr stressig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "umziehen",
+    "translation": "переїжджати",
+    "example": "Wir ziehen nächsten Monat um.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Miete",
+    "translation": "орендна плата",
+    "example": "Die Miete steigt jedes Jahr.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Vermieter",
+    "translation": "орендодавець",
+    "example": "Der Vermieter hat die Wohnung renoviert.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Nachbarschaft",
+    "translation": "сусідство / район",
+    "example": "Die Nachbarschaft ist sehr ruhig.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich gewöhnen an",
+    "translation": "звикати до",
+    "example": "Ich habe mich an das Wetter gewöhnt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Gewohnheit",
+    "translation": "звичка",
+    "example": "Rauchen ist eine schlechte Gewohnheit.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Umwelt",
+    "translation": "довкілля",
+    "example": "Wir müssen die Umwelt schützen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Klimawandel",
+    "translation": "зміна клімату",
+    "example": "Der Klimawandel betrifft uns alle.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "nachhaltig",
+    "translation": "сталий / екологічний",
+    "example": "Wir kaufen nachhaltige Produkte.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Ressource",
+    "translation": "ресурс",
+    "example": "Wasser ist eine wichtige Ressource.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Gesundheit",
+    "translation": "здоров'я",
+    "example": "Gesundheit ist das Wichtigste im Leben.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich erkälten",
+    "translation": "застудитися",
+    "example": "Ich habe mich letzte Woche erkältet.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Behandlung",
+    "translation": "лікування",
+    "example": "Die Behandlung dauert mehrere Wochen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Termin",
+    "translation": "запис / зустріч",
+    "example": "Ich habe einen Termin beim Arzt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Versicherung",
+    "translation": "страхування",
+    "example": "Meine Versicherung übernimmt die Kosten.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich fühlen",
+    "translation": "почуватися",
+    "example": "Ich fühle mich heute besser.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Beziehung",
+    "translation": "стосунки",
+    "example": "Sie haben eine gute Beziehung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Meinung",
+    "translation": "думка",
+    "example": "Meiner Meinung nach ist das falsch.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Vorschlag",
+    "translation": "пропозиція",
+    "example": "Das ist ein guter Vorschlag.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "vorschlagen",
+    "translation": "пропонувати",
+    "example": "Ich schlage vor, früher zu starten.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Entscheidung",
+    "translation": "рішення",
+    "example": "Das war eine schwierige Entscheidung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "entscheiden",
+    "translation": "вирішувати",
+    "example": "Wir müssen uns bald entscheiden.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Unterschied",
+    "translation": "різниця",
+    "example": "Es gibt einen großen Unterschied.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "vergleichen",
+    "translation": "порівнювати",
+    "example": "Man kann die beiden Angebote vergleichen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Erwartung",
+    "translation": "очікування",
+    "example": "Die Erwartungen waren sehr hoch.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "erwarten",
+    "translation": "очікувати",
+    "example": "Ich erwarte eine schnelle Antwort.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Herausforderung",
+    "translation": "виклик",
+    "example": "Das ist eine große Herausforderung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "bewältigen",
+    "translation": "долати",
+    "example": "Er hat die Schwierigkeiten gut bewältigt.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Verspätung",
+    "translation": "затримка",
+    "example": "Der Zug hatte eine Stunde Verspätung.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "buchen",
+    "translation": "бронювати",
+    "example": "Wir haben das Hotel online gebucht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Unterkunft",
+    "translation": "житло / розміщення",
+    "example": "Wir suchen eine günstige Unterkunft.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Sehenswürdigkeit",
+    "translation": "визначна пам'ятка",
+    "example": "Wir haben viele Sehenswürdigkeiten besucht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Quelle",
+    "translation": "джерело",
+    "example": "Man sollte die Quelle überprüfen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Meinungsfreiheit",
+    "translation": "свобода слова",
+    "example": "Meinungsfreiheit ist ein wichtiges Recht.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "beeinflussen",
+    "translation": "впливати",
+    "example": "Werbung beeinflusst unsere Entscheidungen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "der Einfluss",
+    "translation": "вплив",
+    "example": "Soziale Medien haben großen Einfluss.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "sich engagieren",
+    "translation": "залучатися / бути активним",
+    "example": "Sie engagiert sich für den Umweltschutz.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "die Rücksicht",
+    "translation": "врахування інтересів інших",
+    "example": "Man sollte Rücksicht auf andere nehmen.",
+    "type": "word",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "trotzdem",
+    "translation": "незважаючи на це / все одно",
+    "example": "Es regnete, trotzdem sind wir spazieren gegangen.",
+    "type": "connector",
+    "status": "learning",
+    "box": 3,
+    "next_due": "2026-09-15"
+  },
+  {
+    "word": "obwohl",
+    "translation": "хоча",
+    "example": "Obwohl es regnete, sind wir spazieren gegangen.",
+    "type": "connector",
+    "status": "learning",
+    "box": 3,
+    "next_due": "2026-09-15"
+  },
+  {
+    "word": "allerdings",
+    "translation": "однак / проте",
+    "example": "Das Wetter war gut, allerdings war es kalt.",
+    "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "außerdem",
+    "translation": "крім того",
+    "example": "Sie spricht Englisch, außerdem auch Französisch.",
+    "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "deshalb",
+    "translation": "тому",
+    "example": "Er war krank, deshalb ist er nicht gekommen.",
+    "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "während",
+    "translation": "тоді як / поки що (протиставлення)",
+    "example": "Während ich Kaffee mag, trinkt sie lieber Tee.",
+    "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  },
+  {
+    "word": "dennoch",
+    "translation": "все ж таки / тим не менш",
+    "example": "Es war schwer, dennoch hat sie es geschafft.",
+    "type": "connector",
+    "status": "new",
+    "box": 0,
+    "next_due": null
+  }
 ]
