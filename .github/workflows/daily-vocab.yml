@@ -25,11 +25,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Send today's words
+        id: send
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python send_daily_words.py
 
       - name: Commit updated progress
+        if: always() && steps.send.outcome != 'cancelled'
         run: |
           git config user.name "vocab-bot"
           git config user.email "vocab-bot@users.noreply.github.com"

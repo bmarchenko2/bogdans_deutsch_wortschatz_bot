@@ -106,6 +106,12 @@ def send_telegram_message(token, chat_id, text):
         data={"chat_id": chat_id, "text": text, "parse_mode": "Markdown"},
         timeout=15,
     )
+    if resp.status_code == 400:
+        resp = requests.post(
+            url,
+            data={"chat_id": chat_id, "text": text},
+            timeout=15,
+        )
     resp.raise_for_status()
     return resp.json()
 
@@ -122,18 +128,23 @@ def chat_from_update(update):
 
 def sync_chat_ids(token, known_chat_ids):
     url = f"https://api.telegram.org/bot{token}/getUpdates"
-    resp = requests.get(url, timeout=15)
-    resp.raise_for_status()
-    updates = resp.json().get("result", [])
+    offset = None
 
-    for update in updates:
-        chat = chat_from_update(update)
-        if chat and chat.get("id") is not None:
-            known_chat_ids.add(str(chat["id"]))
+    while True:
+        params = {"limit": 100}
+        if offset is not None:
+            params["offset"] = offset
+        resp = requests.get(url, params=params, timeout=15)
+        resp.raise_for_status()
+        updates = resp.json().get("result", [])
+        if not updates:
+            break
 
-    if updates:
-        last_update_id = updates[-1]["update_id"]
-        requests.get(url, params={"offset": last_update_id + 1}, timeout=15)
+        for update in updates:
+            chat = chat_from_update(update)
+            if chat and chat.get("id") is not None:
+                known_chat_ids.add(str(chat["id"]))
+            offset = update["update_id"] + 1
 
     return known_chat_ids
 
