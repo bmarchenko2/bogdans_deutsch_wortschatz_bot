@@ -1,17 +1,14 @@
 # Daily German (B1) Vocabulary → Telegram
 
-Sends a few new German words plus a few due-for-review ones to your Telegram
-chat every day, via a GitHub Actions cron job. No server needed.
+Sends a few new German words plus a few due-for-review ones to everyone who
+has messaged the bot, via a GitHub Actions cron job. No server needed.
 
 ## 1. Create a Telegram bot
 
 1. Open Telegram, message **@BotFather**, send `/newbot`, follow the prompts.
 2. Copy the token it gives you (looks like `123456789:AA...`).
-3. Send any message (e.g. "hi") to your new bot so it can message you back.
-4. Get your chat id: open this URL in a browser (with your real token):
-   `https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates`
-   and look for `"chat":{"id": ...}` in the response. That number is your
-   `TELEGRAM_CHAT_ID`.
+3. Anyone who wants daily words should send any message (e.g. "hi") to the bot.
+   The bot remembers every chat in `telegram_chats.json`.
 
 ## 2. Push this repo to GitHub
 
@@ -24,7 +21,8 @@ In the repo: **Settings → Secrets and variables → Actions → New repository
 secret**, add:
 
 - `TELEGRAM_BOT_TOKEN`
-- `TELEGRAM_CHAT_ID`
+
+Everyone gets the same words; progress is tracked once in `vocab_b1_de_uk.json`.
 
 ## 4. Done
 

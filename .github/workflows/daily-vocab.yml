@@ -27,13 +27,12 @@ jobs:
       - name: Send today's words
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python send_daily_words.py
 
       - name: Commit updated progress
         run: |
           git config user.name "vocab-bot"
           git config user.email "vocab-bot@users.noreply.github.com"
-          git add vocab_b1_de_uk.json
+          git add vocab_b1_de_uk.json telegram_chats.json
           git diff --quiet --cached || git commit -m "Update vocab progress $(date -u +'%Y-%m-%d')"
           git push
