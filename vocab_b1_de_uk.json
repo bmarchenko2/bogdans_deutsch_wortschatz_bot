@@ -4,27 +4,27 @@
     "translation": "досвід",
     "example": "Sie hat viel Erfahrung im Verkauf.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-05"
   },
   {
     "word": "die Verantwortung",
     "translation": "відповідальність",
     "example": "Er trägt viel Verantwortung in seinem Job.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-05"
   },
   {
     "word": "sich beschweren",
     "translation": "скаржитися",
     "example": "Der Kunde hat sich über den Service beschwert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-05"
   },
   {
     "word": "die Beschwerde",
@@ -437,8 +437,8 @@
     "example": "Es regnete, trotzdem sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-01"
+    "box": 3,
+    "next_due": "2026-09-16"
   },
   {
     "word": "obwohl",
@@ -446,8 +446,8 @@
     "example": "Obwohl es regnete, sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-01"
+    "box": 3,
+    "next_due": "2026-09-16"
   },
   {
     "word": "allerdings",
