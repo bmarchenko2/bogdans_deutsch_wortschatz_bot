@@ -58,27 +58,27 @@
     "translation": "заява про прийом на роботу",
     "example": "Ich schreibe gerade eine Bewerbung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-07"
   },
   {
     "word": "der Lebenslauf",
     "translation": "резюме",
     "example": "Der Lebenslauf muss aktuell sein.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-07"
   },
   {
     "word": "die Ausbildung",
     "translation": "професійне навчання",
     "example": "Er macht eine Ausbildung als Elektriker.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-07"
   },
   {
     "word": "der Umzug",
