@@ -5,8 +5,8 @@
     "example": "Sie hat viel Erfahrung im Verkauf.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-05"
+    "box": 2,
+    "next_due": "2026-09-12"
   },
   {
     "word": "die Verantwortung",
@@ -14,8 +14,8 @@
     "example": "Er trägt viel Verantwortung in seinem Job.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-05"
+    "box": 2,
+    "next_due": "2026-09-12"
   },
   {
     "word": "sich beschweren",
@@ -23,8 +23,8 @@
     "example": "Der Kunde hat sich über den Service beschwert.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-05"
+    "box": 2,
+    "next_due": "2026-09-12"
   },
   {
     "word": "die Beschwerde",
@@ -85,27 +85,27 @@
     "translation": "переїзд",
     "example": "Der Umzug war sehr stressig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-08"
   },
   {
     "word": "umziehen",
     "translation": "переїжджати",
     "example": "Wir ziehen nächsten Monat um.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-08"
   },
   {
     "word": "die Miete",
     "translation": "орендна плата",
     "example": "Die Miete steigt jedes Jahr.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-08"
   },
   {
     "word": "der Vermieter",
