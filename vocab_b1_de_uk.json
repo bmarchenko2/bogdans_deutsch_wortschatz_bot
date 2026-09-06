@@ -32,8 +32,8 @@
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-06"
+    "box": 2,
+    "next_due": "2026-09-13"
   },
   {
     "word": "der Vertrag",
@@ -41,8 +41,8 @@
     "example": "Wir haben den Vertrag unterschrieben.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-06"
+    "box": 2,
+    "next_due": "2026-09-13"
   },
   {
     "word": "kündigen",
@@ -50,8 +50,8 @@
     "example": "Sie hat ihren Job gekündigt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-06"
+    "box": 2,
+    "next_due": "2026-09-13"
   },
   {
     "word": "die Bewerbung",
@@ -112,27 +112,27 @@
     "translation": "орендодавець",
     "example": "Der Vermieter hat die Wohnung renoviert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-09"
   },
   {
     "word": "die Nachbarschaft",
     "translation": "сусідство / район",
     "example": "Die Nachbarschaft ist sehr ruhig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-09"
   },
   {
     "word": "sich gewöhnen an",
     "translation": "звикати до",
     "example": "Ich habe mich an das Wetter gewöhnt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-09"
   },
   {
     "word": "die Gewohnheit",
