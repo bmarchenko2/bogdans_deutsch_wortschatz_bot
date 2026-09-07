@@ -59,8 +59,8 @@
     "example": "Ich schreibe gerade eine Bewerbung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-07"
+    "box": 2,
+    "next_due": "2026-09-14"
   },
   {
     "word": "der Lebenslauf",
@@ -68,8 +68,8 @@
     "example": "Der Lebenslauf muss aktuell sein.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-07"
+    "box": 2,
+    "next_due": "2026-09-14"
   },
   {
     "word": "die Ausbildung",
@@ -77,8 +77,8 @@
     "example": "Er macht eine Ausbildung als Elektriker.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-07"
+    "box": 2,
+    "next_due": "2026-09-14"
   },
   {
     "word": "der Umzug",
@@ -139,27 +139,27 @@
     "translation": "звичка",
     "example": "Rauchen ist eine schlechte Gewohnheit.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-10"
   },
   {
     "word": "die Umwelt",
     "translation": "довкілля",
     "example": "Wir müssen die Umwelt schützen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-10"
   },
   {
     "word": "der Klimawandel",
     "translation": "зміна клімату",
     "example": "Der Klimawandel betrifft uns alle.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-10"
   },
   {
     "word": "nachhaltig",
