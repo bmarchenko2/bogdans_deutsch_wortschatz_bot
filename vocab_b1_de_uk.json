@@ -86,8 +86,8 @@
     "example": "Der Umzug war sehr stressig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-08"
+    "box": 2,
+    "next_due": "2026-09-15"
   },
   {
     "word": "umziehen",
@@ -95,8 +95,8 @@
     "example": "Wir ziehen nächsten Monat um.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-08"
+    "box": 2,
+    "next_due": "2026-09-15"
   },
   {
     "word": "die Miete",
@@ -104,8 +104,8 @@
     "example": "Die Miete steigt jedes Jahr.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-08"
+    "box": 2,
+    "next_due": "2026-09-15"
   },
   {
     "word": "der Vermieter",
@@ -166,27 +166,27 @@
     "translation": "сталий / екологічний",
     "example": "Wir kaufen nachhaltige Produkte.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-11"
   },
   {
     "word": "die Ressource",
     "translation": "ресурс",
     "example": "Wasser ist eine wichtige Ressource.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-11"
   },
   {
     "word": "die Gesundheit",
     "translation": "здоров'я",
     "example": "Gesundheit ist das Wichtigste im Leben.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-11"
   },
   {
     "word": "sich erkälten",
