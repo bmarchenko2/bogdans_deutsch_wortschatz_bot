@@ -113,8 +113,8 @@
     "example": "Der Vermieter hat die Wohnung renoviert.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-09"
+    "box": 2,
+    "next_due": "2026-09-16"
   },
   {
     "word": "die Nachbarschaft",
@@ -122,8 +122,8 @@
     "example": "Die Nachbarschaft ist sehr ruhig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-09"
+    "box": 2,
+    "next_due": "2026-09-16"
   },
   {
     "word": "sich gewöhnen an",
@@ -131,8 +131,8 @@
     "example": "Ich habe mich an das Wetter gewöhnt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-09"
+    "box": 2,
+    "next_due": "2026-09-16"
   },
   {
     "word": "die Gewohnheit",
@@ -193,27 +193,27 @@
     "translation": "застудитися",
     "example": "Ich habe mich letzte Woche erkältet.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-12"
   },
   {
     "word": "die Behandlung",
     "translation": "лікування",
     "example": "Die Behandlung dauert mehrere Wochen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-12"
   },
   {
     "word": "der Termin",
     "translation": "запис / зустріч",
     "example": "Ich habe einen Termin beim Arzt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-12"
   },
   {
     "word": "die Versicherung",
