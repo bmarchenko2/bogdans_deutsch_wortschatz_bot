@@ -140,8 +140,8 @@
     "example": "Rauchen ist eine schlechte Gewohnheit.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-10"
+    "box": 2,
+    "next_due": "2026-09-17"
   },
   {
     "word": "die Umwelt",
@@ -149,8 +149,8 @@
     "example": "Wir müssen die Umwelt schützen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-10"
+    "box": 2,
+    "next_due": "2026-09-17"
   },
   {
     "word": "der Klimawandel",
@@ -158,8 +158,8 @@
     "example": "Der Klimawandel betrifft uns alle.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-10"
+    "box": 2,
+    "next_due": "2026-09-17"
   },
   {
     "word": "nachhaltig",
@@ -220,27 +220,27 @@
     "translation": "страхування",
     "example": "Meine Versicherung übernimmt die Kosten.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-13"
   },
   {
     "word": "sich fühlen",
     "translation": "почуватися",
     "example": "Ich fühle mich heute besser.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-13"
   },
   {
     "word": "die Beziehung",
     "translation": "стосунки",
     "example": "Sie haben eine gute Beziehung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-13"
   },
   {
     "word": "die Meinung",
