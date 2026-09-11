@@ -167,8 +167,8 @@
     "example": "Wir kaufen nachhaltige Produkte.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-11"
+    "box": 2,
+    "next_due": "2026-09-18"
   },
   {
     "word": "die Ressource",
@@ -176,8 +176,8 @@
     "example": "Wasser ist eine wichtige Ressource.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-11"
+    "box": 2,
+    "next_due": "2026-09-18"
   },
   {
     "word": "die Gesundheit",
@@ -185,8 +185,8 @@
     "example": "Gesundheit ist das Wichtigste im Leben.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-11"
+    "box": 2,
+    "next_due": "2026-09-18"
   },
   {
     "word": "sich erkälten",
@@ -247,27 +247,27 @@
     "translation": "думка",
     "example": "Meiner Meinung nach ist das falsch.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-14"
   },
   {
     "word": "der Vorschlag",
     "translation": "пропозиція",
     "example": "Das ist ein guter Vorschlag.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-14"
   },
   {
     "word": "vorschlagen",
     "translation": "пропонувати",
     "example": "Ich schlage vor, früher zu starten.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-14"
   },
   {
     "word": "die Entscheidung",
