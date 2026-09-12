@@ -5,8 +5,8 @@
     "example": "Sie hat viel Erfahrung im Verkauf.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-12"
+    "box": 3,
+    "next_due": "2026-09-26"
   },
   {
     "word": "die Verantwortung",
@@ -14,8 +14,8 @@
     "example": "Er trägt viel Verantwortung in seinem Job.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-12"
+    "box": 3,
+    "next_due": "2026-09-26"
   },
   {
     "word": "sich beschweren",
@@ -23,8 +23,8 @@
     "example": "Der Kunde hat sich über den Service beschwert.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-12"
+    "box": 3,
+    "next_due": "2026-09-26"
   },
   {
     "word": "die Beschwerde",
@@ -194,8 +194,8 @@
     "example": "Ich habe mich letzte Woche erkältet.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-12"
+    "box": 2,
+    "next_due": "2026-09-19"
   },
   {
     "word": "die Behandlung",
@@ -203,8 +203,8 @@
     "example": "Die Behandlung dauert mehrere Wochen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-12"
+    "box": 2,
+    "next_due": "2026-09-19"
   },
   {
     "word": "der Termin",
@@ -274,27 +274,27 @@
     "translation": "рішення",
     "example": "Das war eine schwierige Entscheidung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-15"
   },
   {
     "word": "entscheiden",
     "translation": "вирішувати",
     "example": "Wir müssen uns bald entscheiden.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-15"
   },
   {
     "word": "der Unterschied",
     "translation": "різниця",
     "example": "Es gibt einen großen Unterschied.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-15"
   },
   {
     "word": "vergleichen",
