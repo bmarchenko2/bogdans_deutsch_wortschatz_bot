@@ -32,8 +32,8 @@
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-13"
+    "box": 3,
+    "next_due": "2026-09-27"
   },
   {
     "word": "der Vertrag",
@@ -41,8 +41,8 @@
     "example": "Wir haben den Vertrag unterschrieben.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-13"
+    "box": 3,
+    "next_due": "2026-09-27"
   },
   {
     "word": "kündigen",
@@ -50,8 +50,8 @@
     "example": "Sie hat ihren Job gekündigt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-13"
+    "box": 3,
+    "next_due": "2026-09-27"
   },
   {
     "word": "die Bewerbung",
@@ -212,8 +212,8 @@
     "example": "Ich habe einen Termin beim Arzt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-12"
+    "box": 2,
+    "next_due": "2026-09-20"
   },
   {
     "word": "die Versicherung",
@@ -221,8 +221,8 @@
     "example": "Meine Versicherung übernimmt die Kosten.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-13"
+    "box": 2,
+    "next_due": "2026-09-20"
   },
   {
     "word": "sich fühlen",
@@ -301,27 +301,27 @@
     "translation": "порівнювати",
     "example": "Man kann die beiden Angebote vergleichen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-16"
   },
   {
     "word": "die Erwartung",
     "translation": "очікування",
     "example": "Die Erwartungen waren sehr hoch.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-16"
   },
   {
     "word": "erwarten",
     "translation": "очікувати",
     "example": "Ich erwarte eine schnelle Antwort.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-16"
   },
   {
     "word": "die Herausforderung",
