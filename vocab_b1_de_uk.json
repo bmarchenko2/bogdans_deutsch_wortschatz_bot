@@ -59,8 +59,8 @@
     "example": "Ich schreibe gerade eine Bewerbung.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-14"
+    "box": 3,
+    "next_due": "2026-09-28"
   },
   {
     "word": "der Lebenslauf",
@@ -68,8 +68,8 @@
     "example": "Der Lebenslauf muss aktuell sein.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-14"
+    "box": 3,
+    "next_due": "2026-09-28"
   },
   {
     "word": "die Ausbildung",
@@ -77,8 +77,8 @@
     "example": "Er macht eine Ausbildung als Elektriker.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-14"
+    "box": 3,
+    "next_due": "2026-09-28"
   },
   {
     "word": "der Umzug",
@@ -230,8 +230,8 @@
     "example": "Ich fühle mich heute besser.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-13"
+    "box": 2,
+    "next_due": "2026-09-21"
   },
   {
     "word": "die Beziehung",
@@ -239,8 +239,8 @@
     "example": "Sie haben eine gute Beziehung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-13"
+    "box": 2,
+    "next_due": "2026-09-21"
   },
   {
     "word": "die Meinung",
@@ -328,27 +328,27 @@
     "translation": "виклик",
     "example": "Das ist eine große Herausforderung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-17"
   },
   {
     "word": "bewältigen",
     "translation": "долати",
     "example": "Er hat die Schwierigkeiten gut bewältigt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-17"
   },
   {
     "word": "die Verspätung",
     "translation": "затримка",
     "example": "Der Zug hatte eine Stunde Verspätung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-17"
   },
   {
     "word": "buchen",
