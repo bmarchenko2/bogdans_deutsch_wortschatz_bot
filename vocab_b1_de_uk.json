@@ -86,8 +86,8 @@
     "example": "Der Umzug war sehr stressig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-15"
+    "box": 3,
+    "next_due": "2026-09-29"
   },
   {
     "word": "umziehen",
@@ -95,8 +95,8 @@
     "example": "Wir ziehen nächsten Monat um.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-15"
+    "box": 3,
+    "next_due": "2026-09-29"
   },
   {
     "word": "die Miete",
@@ -248,8 +248,8 @@
     "example": "Meiner Meinung nach ist das falsch.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-14"
+    "box": 2,
+    "next_due": "2026-09-22"
   },
   {
     "word": "der Vorschlag",
@@ -257,8 +257,8 @@
     "example": "Das ist ein guter Vorschlag.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-14"
+    "box": 2,
+    "next_due": "2026-09-22"
   },
   {
     "word": "vorschlagen",
@@ -266,8 +266,8 @@
     "example": "Ich schlage vor, früher zu starten.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-14"
+    "box": 2,
+    "next_due": "2026-09-22"
   },
   {
     "word": "die Entscheidung",
@@ -355,27 +355,27 @@
     "translation": "бронювати",
     "example": "Wir haben das Hotel online gebucht.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-18"
   },
   {
     "word": "die Unterkunft",
     "translation": "житло / розміщення",
     "example": "Wir suchen eine günstige Unterkunft.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-18"
   },
   {
     "word": "die Sehenswürdigkeit",
     "translation": "визначна пам'ятка",
     "example": "Wir haben viele Sehenswürdigkeiten besucht.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-18"
   },
   {
     "word": "die Quelle",
