@@ -104,8 +104,8 @@
     "example": "Die Miete steigt jedes Jahr.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-15"
+    "box": 3,
+    "next_due": "2026-09-30"
   },
   {
     "word": "der Vermieter",
@@ -113,8 +113,8 @@
     "example": "Der Vermieter hat die Wohnung renoviert.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-16"
+    "box": 3,
+    "next_due": "2026-09-30"
   },
   {
     "word": "die Nachbarschaft",
@@ -275,8 +275,8 @@
     "example": "Das war eine schwierige Entscheidung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-15"
+    "box": 2,
+    "next_due": "2026-09-23"
   },
   {
     "word": "entscheiden",
@@ -284,8 +284,8 @@
     "example": "Wir müssen uns bald entscheiden.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-15"
+    "box": 2,
+    "next_due": "2026-09-23"
   },
   {
     "word": "der Unterschied",
@@ -293,8 +293,8 @@
     "example": "Es gibt einen großen Unterschied.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-15"
+    "box": 2,
+    "next_due": "2026-09-23"
   },
   {
     "word": "vergleichen",
@@ -382,27 +382,27 @@
     "translation": "джерело",
     "example": "Man sollte die Quelle überprüfen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-19"
   },
   {
     "word": "die Meinungsfreiheit",
     "translation": "свобода слова",
     "example": "Meinungsfreiheit ist ein wichtiges Recht.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-19"
   },
   {
     "word": "beeinflussen",
     "translation": "впливати",
     "example": "Werbung beeinflusst unsere Entscheidungen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-19"
   },
   {
     "word": "der Einfluss",
