@@ -122,8 +122,8 @@
     "example": "Die Nachbarschaft ist sehr ruhig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-16"
+    "box": 3,
+    "next_due": "2026-10-01"
   },
   {
     "word": "sich gewöhnen an",
@@ -131,8 +131,8 @@
     "example": "Ich habe mich an das Wetter gewöhnt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-16"
+    "box": 3,
+    "next_due": "2026-10-01"
   },
   {
     "word": "die Gewohnheit",
@@ -302,8 +302,8 @@
     "example": "Man kann die beiden Angebote vergleichen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-16"
+    "box": 2,
+    "next_due": "2026-09-24"
   },
   {
     "word": "die Erwartung",
@@ -311,8 +311,8 @@
     "example": "Die Erwartungen waren sehr hoch.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-16"
+    "box": 2,
+    "next_due": "2026-09-24"
   },
   {
     "word": "erwarten",
@@ -320,8 +320,8 @@
     "example": "Ich erwarte eine schnelle Antwort.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-16"
+    "box": 2,
+    "next_due": "2026-09-24"
   },
   {
     "word": "die Herausforderung",
@@ -409,27 +409,27 @@
     "translation": "вплив",
     "example": "Soziale Medien haben großen Einfluss.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-20"
   },
   {
     "word": "sich engagieren",
     "translation": "залучатися / бути активним",
     "example": "Sie engagiert sich für den Umweltschutz.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-20"
   },
   {
     "word": "die Rücksicht",
     "translation": "врахування інтересів інших",
     "example": "Man sollte Rücksicht auf andere nehmen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-20"
   },
   {
     "word": "trotzdem",
