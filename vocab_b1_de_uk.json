@@ -140,8 +140,8 @@
     "example": "Rauchen ist eine schlechte Gewohnheit.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-17"
+    "box": 3,
+    "next_due": "2026-10-02"
   },
   {
     "word": "die Umwelt",
@@ -149,8 +149,8 @@
     "example": "Wir müssen die Umwelt schützen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-17"
+    "box": 3,
+    "next_due": "2026-10-02"
   },
   {
     "word": "der Klimawandel",
@@ -158,8 +158,8 @@
     "example": "Der Klimawandel betrifft uns alle.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-17"
+    "box": 3,
+    "next_due": "2026-10-02"
   },
   {
     "word": "nachhaltig",
@@ -437,8 +437,8 @@
     "example": "Es regnete, trotzdem sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-16"
+    "box": 4,
+    "next_due": "2026-10-18"
   },
   {
     "word": "obwohl",
@@ -446,35 +446,35 @@
     "example": "Obwohl es regnete, sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-16"
+    "box": 4,
+    "next_due": "2026-10-18"
   },
   {
     "word": "allerdings",
     "translation": "однак / проте",
     "example": "Das Wetter war gut, allerdings war es kalt.",
     "type": "connector",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-21"
   },
   {
     "word": "außerdem",
     "translation": "крім того",
     "example": "Sie spricht Englisch, außerdem auch Französisch.",
     "type": "connector",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-21"
   },
   {
     "word": "deshalb",
     "translation": "тому",
     "example": "Er war krank, deshalb ist er nicht gekommen.",
     "type": "connector",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-21"
   },
   {
     "word": "während",
