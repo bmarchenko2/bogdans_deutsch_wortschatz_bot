@@ -167,8 +167,8 @@
     "example": "Wir kaufen nachhaltige Produkte.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-18"
+    "box": 3,
+    "next_due": "2026-10-03"
   },
   {
     "word": "die Ressource",
@@ -176,8 +176,8 @@
     "example": "Wasser ist eine wichtige Ressource.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-18"
+    "box": 3,
+    "next_due": "2026-10-03"
   },
   {
     "word": "die Gesundheit",
@@ -329,8 +329,8 @@
     "example": "Das ist eine große Herausforderung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-17"
+    "box": 2,
+    "next_due": "2026-09-26"
   },
   {
     "word": "bewältigen",
@@ -338,8 +338,8 @@
     "example": "Er hat die Schwierigkeiten gut bewältigt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-17"
+    "box": 2,
+    "next_due": "2026-09-26"
   },
   {
     "word": "die Verspätung",
@@ -347,8 +347,8 @@
     "example": "Der Zug hatte eine Stunde Verspätung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-17"
+    "box": 2,
+    "next_due": "2026-09-26"
   },
   {
     "word": "buchen",
@@ -481,27 +481,27 @@
     "translation": "тоді як / поки що (протиставлення)",
     "example": "Während ich Kaffee mag, trinkt sie lieber Tee.",
     "type": "connector",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-22"
   },
   {
     "word": "dennoch",
     "translation": "все ж таки / тим не менш",
     "example": "Es war schwer, dennoch hat sie es geschafft.",
     "type": "connector",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-22"
   },
   {
     "word": "die Behörde",
     "translation": "орган влади / установа",
     "example": "Ich muss zur Behörde, um die Anmeldung zu erledigen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-22"
   },
   {
     "word": "die Anmeldung",
