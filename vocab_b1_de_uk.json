@@ -185,8 +185,8 @@
     "example": "Gesundheit ist das Wichtigste im Leben.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-18"
+    "box": 3,
+    "next_due": "2026-10-04"
   },
   {
     "word": "sich erkälten",
@@ -194,8 +194,8 @@
     "example": "Ich habe mich letzte Woche erkältet.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-19"
+    "box": 3,
+    "next_due": "2026-10-04"
   },
   {
     "word": "die Behandlung",
@@ -356,8 +356,8 @@
     "example": "Wir haben das Hotel online gebucht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-18"
+    "box": 2,
+    "next_due": "2026-09-27"
   },
   {
     "word": "die Unterkunft",
@@ -365,8 +365,8 @@
     "example": "Wir suchen eine günstige Unterkunft.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-18"
+    "box": 2,
+    "next_due": "2026-09-27"
   },
   {
     "word": "die Sehenswürdigkeit",
@@ -374,8 +374,8 @@
     "example": "Wir haben viele Sehenswürdigkeiten besucht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-18"
+    "box": 2,
+    "next_due": "2026-09-27"
   },
   {
     "word": "die Quelle",
@@ -508,27 +508,27 @@
     "translation": "реєстрація (прописка)",
     "example": "Die Anmeldung muss innerhalb von 14 Tagen erfolgen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-23"
   },
   {
     "word": "die Aufenthaltsbewilligung",
     "translation": "дозвіл на проживання",
     "example": "Er hat eine neue Aufenthaltsbewilligung beantragt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-23"
   },
   {
     "word": "beantragen",
     "translation": "подавати заяву на щось",
     "example": "Sie hat ein Visum beantragt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-23"
   },
   {
     "word": "die Bescheinigung",
