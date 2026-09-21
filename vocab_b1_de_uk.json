@@ -203,8 +203,8 @@
     "example": "Die Behandlung dauert mehrere Wochen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-19"
+    "box": 3,
+    "next_due": "2026-10-05"
   },
   {
     "word": "der Termin",
@@ -212,8 +212,8 @@
     "example": "Ich habe einen Termin beim Arzt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-20"
+    "box": 3,
+    "next_due": "2026-10-05"
   },
   {
     "word": "die Versicherung",
@@ -383,8 +383,8 @@
     "example": "Man sollte die Quelle überprüfen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-19"
+    "box": 2,
+    "next_due": "2026-09-28"
   },
   {
     "word": "die Meinungsfreiheit",
@@ -392,8 +392,8 @@
     "example": "Meinungsfreiheit ist ein wichtiges Recht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-19"
+    "box": 2,
+    "next_due": "2026-09-28"
   },
   {
     "word": "beeinflussen",
@@ -401,8 +401,8 @@
     "example": "Werbung beeinflusst unsere Entscheidungen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-19"
+    "box": 2,
+    "next_due": "2026-09-28"
   },
   {
     "word": "der Einfluss",
@@ -535,27 +535,27 @@
     "translation": "довідка",
     "example": "Ich brauche eine Bescheinigung von der Schule.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-24"
   },
   {
     "word": "die Steuererklärung",
     "translation": "податкова декларація",
     "example": "Die Steuererklärung muss bis Ende März abgegeben werden.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-24"
   },
   {
     "word": "die Gebühr",
     "translation": "збір / плата",
     "example": "Für den Reisepass fällt eine Gebühr an.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-24"
   },
   {
     "word": "die Frist",
