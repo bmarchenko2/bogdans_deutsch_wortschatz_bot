@@ -239,8 +239,8 @@
     "example": "Sie haben eine gute Beziehung.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-21"
+    "box": 3,
+    "next_due": "2026-10-07"
   },
   {
     "word": "die Meinung",
@@ -248,8 +248,8 @@
     "example": "Meiner Meinung nach ist das falsch.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-22"
+    "box": 3,
+    "next_due": "2026-10-07"
   },
   {
     "word": "der Vorschlag",
@@ -455,8 +455,8 @@
     "example": "Das Wetter war gut, allerdings war es kalt.",
     "type": "connector",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-21"
+    "box": 2,
+    "next_due": "2026-09-30"
   },
   {
     "word": "außerdem",
@@ -464,8 +464,8 @@
     "example": "Sie spricht Englisch, außerdem auch Französisch.",
     "type": "connector",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-21"
+    "box": 2,
+    "next_due": "2026-09-30"
   },
   {
     "word": "deshalb",
@@ -473,8 +473,8 @@
     "example": "Er war krank, deshalb ist er nicht gekommen.",
     "type": "connector",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-21"
+    "box": 2,
+    "next_due": "2026-09-30"
   },
   {
     "word": "während",
@@ -589,27 +589,27 @@
     "translation": "дохід",
     "example": "Sein Einkommen ist in den letzten Jahren gestiegen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-26"
   },
   {
     "word": "sparen",
     "translation": "заощаджувати",
     "example": "Wir sparen für ein neues Auto.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-26"
   },
   {
     "word": "die Ausgabe",
     "translation": "витрата",
     "example": "Die monatlichen Ausgaben sind hoch.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-26"
   },
   {
     "word": "das Budget",
