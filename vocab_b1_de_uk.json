@@ -257,8 +257,8 @@
     "example": "Das ist ein guter Vorschlag.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-22"
+    "box": 3,
+    "next_due": "2026-10-08"
   },
   {
     "word": "vorschlagen",
@@ -266,8 +266,8 @@
     "example": "Ich schlage vor, früher zu starten.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-22"
+    "box": 3,
+    "next_due": "2026-10-08"
   },
   {
     "word": "die Entscheidung",
@@ -482,8 +482,8 @@
     "example": "Während ich Kaffee mag, trinkt sie lieber Tee.",
     "type": "connector",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-22"
+    "box": 2,
+    "next_due": "2026-10-01"
   },
   {
     "word": "dennoch",
@@ -491,8 +491,8 @@
     "example": "Es war schwer, dennoch hat sie es geschafft.",
     "type": "connector",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-22"
+    "box": 2,
+    "next_due": "2026-10-01"
   },
   {
     "word": "die Behörde",
@@ -500,8 +500,8 @@
     "example": "Ich muss zur Behörde, um die Anmeldung zu erledigen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-22"
+    "box": 2,
+    "next_due": "2026-10-01"
   },
   {
     "word": "die Anmeldung",
@@ -616,27 +616,27 @@
     "translation": "бюджет",
     "example": "Wir müssen unser Budget planen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-27"
   },
   {
     "word": "die Rechnung",
     "translation": "рахунок",
     "example": "Ich habe die Rechnung schon bezahlt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-27"
   },
   {
     "word": "der Kredit",
     "translation": "кредит",
     "example": "Sie haben einen Kredit für die Wohnung aufgenommen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-27"
   },
   {
     "word": "investieren",
