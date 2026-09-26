@@ -302,8 +302,8 @@
     "example": "Man kann die beiden Angebote vergleichen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-24"
+    "box": 3,
+    "next_due": "2026-10-10"
   },
   {
     "word": "die Erwartung",
@@ -311,8 +311,8 @@
     "example": "Die Erwartungen waren sehr hoch.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-24"
+    "box": 3,
+    "next_due": "2026-10-10"
   },
   {
     "word": "erwarten",
@@ -320,8 +320,8 @@
     "example": "Ich erwarte eine schnelle Antwort.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-24"
+    "box": 3,
+    "next_due": "2026-10-10"
   },
   {
     "word": "die Herausforderung",
@@ -527,8 +527,8 @@
     "example": "Sie hat ein Visum beantragt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-23"
+    "box": 2,
+    "next_due": "2026-10-03"
   },
   {
     "word": "die Bescheinigung",
@@ -536,8 +536,8 @@
     "example": "Ich brauche eine Bescheinigung von der Schule.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-24"
+    "box": 2,
+    "next_due": "2026-10-03"
   },
   {
     "word": "die Steuererklärung",
@@ -670,27 +670,27 @@
     "translation": "завершення навчання / диплом",
     "example": "Nach dem Abschluss sucht er eine Stelle.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-29"
   },
   {
     "word": "die Fähigkeit",
     "translation": "здатність / навичка",
     "example": "Er hat die Fähigkeit, gut zuzuhören.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-29"
   },
   {
     "word": "sich konzentrieren",
     "translation": "зосереджуватися",
     "example": "Ich kann mich schwer konzentrieren.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-29"
   },
   {
     "word": "das Gerät",
