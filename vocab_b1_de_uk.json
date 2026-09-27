@@ -545,8 +545,8 @@
     "example": "Die Steuererklärung muss bis Ende März abgegeben werden.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-24"
+    "box": 2,
+    "next_due": "2026-10-04"
   },
   {
     "word": "die Gebühr",
@@ -554,8 +554,8 @@
     "example": "Für den Reisepass fällt eine Gebühr an.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-24"
+    "box": 2,
+    "next_due": "2026-10-04"
   },
   {
     "word": "die Frist",
@@ -563,8 +563,8 @@
     "example": "Die Frist für die Anmeldung läuft morgen ab.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-25"
+    "box": 2,
+    "next_due": "2026-10-04"
   },
   {
     "word": "die Unterlagen",
@@ -572,8 +572,8 @@
     "example": "Bitte bringen Sie alle Unterlagen mit.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-25"
+    "box": 2,
+    "next_due": "2026-10-04"
   },
   {
     "word": "der Antrag",
@@ -581,8 +581,8 @@
     "example": "Der Antrag wurde genehmigt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-25"
+    "box": 2,
+    "next_due": "2026-10-04"
   },
   {
     "word": "das Einkommen",
@@ -697,27 +697,27 @@
     "translation": "пристрій",
     "example": "Das Gerät funktioniert nicht mehr.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-30"
   },
   {
     "word": "die Anwendung",
     "translation": "застосунок / додаток",
     "example": "Diese Anwendung ist sehr nützlich.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-30"
   },
   {
     "word": "herunterladen",
     "translation": "завантажувати (файл)",
     "example": "Ich habe die App heruntergeladen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-09-30"
   },
   {
     "word": "speichern",
