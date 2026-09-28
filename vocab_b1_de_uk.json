@@ -5,8 +5,8 @@
     "example": "Sie hat viel Erfahrung im Verkauf.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-26"
+    "box": 4,
+    "next_due": "2026-10-28"
   },
   {
     "word": "die Verantwortung",
@@ -14,8 +14,8 @@
     "example": "Er trägt viel Verantwortung in seinem Job.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-26"
+    "box": 4,
+    "next_due": "2026-10-28"
   },
   {
     "word": "sich beschweren",
@@ -23,8 +23,8 @@
     "example": "Der Kunde hat sich über den Service beschwert.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-26"
+    "box": 4,
+    "next_due": "2026-10-28"
   },
   {
     "word": "die Beschwerde",
@@ -329,8 +329,8 @@
     "example": "Das ist eine große Herausforderung.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-26"
+    "box": 3,
+    "next_due": "2026-10-12"
   },
   {
     "word": "bewältigen",
@@ -338,8 +338,8 @@
     "example": "Er hat die Schwierigkeiten gut bewältigt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-26"
+    "box": 3,
+    "next_due": "2026-10-12"
   },
   {
     "word": "die Verspätung",
@@ -724,27 +724,27 @@
     "translation": "зберігати (файл)",
     "example": "Hast du die Datei gespeichert?",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-01"
   },
   {
     "word": "die Sicherheit",
     "translation": "безпека",
     "example": "Datensicherheit ist heute sehr wichtig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-01"
   },
   {
     "word": "zuverlässig",
     "translation": "надійний",
     "example": "Er ist ein sehr zuverlässiger Kollege.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-01"
   },
   {
     "word": "geduldig",
