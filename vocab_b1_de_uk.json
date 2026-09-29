@@ -32,8 +32,8 @@
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-27"
+    "box": 4,
+    "next_due": "2026-10-29"
   },
   {
     "word": "der Vertrag",
@@ -347,8 +347,8 @@
     "example": "Der Zug hatte eine Stunde Verspätung.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-26"
+    "box": 3,
+    "next_due": "2026-10-13"
   },
   {
     "word": "buchen",
@@ -590,8 +590,8 @@
     "example": "Sein Einkommen ist in den letzten Jahren gestiegen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-26"
+    "box": 2,
+    "next_due": "2026-10-06"
   },
   {
     "word": "sparen",
@@ -599,8 +599,8 @@
     "example": "Wir sparen für ein neues Auto.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-26"
+    "box": 2,
+    "next_due": "2026-10-06"
   },
   {
     "word": "die Ausgabe",
@@ -608,8 +608,8 @@
     "example": "Die monatlichen Ausgaben sind hoch.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-26"
+    "box": 2,
+    "next_due": "2026-10-06"
   },
   {
     "word": "das Budget",
@@ -751,27 +751,27 @@
     "translation": "терплячий",
     "example": "Sie ist sehr geduldig mit den Kindern.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-02"
   },
   {
     "word": "ehrlich",
     "translation": "чесний",
     "example": "Ich schätze ehrliche Menschen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-02"
   },
   {
     "word": "neugierig",
     "translation": "допитливий",
     "example": "Kinder sind oft sehr neugierig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-02"
   },
   {
     "word": "selbstständig",
