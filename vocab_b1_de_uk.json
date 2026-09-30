@@ -41,8 +41,8 @@
     "example": "Wir haben den Vertrag unterschrieben.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-27"
+    "box": 4,
+    "next_due": "2026-10-30"
   },
   {
     "word": "kündigen",
@@ -50,8 +50,8 @@
     "example": "Sie hat ihren Job gekündigt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-27"
+    "box": 4,
+    "next_due": "2026-10-30"
   },
   {
     "word": "die Bewerbung",
@@ -356,8 +356,8 @@
     "example": "Wir haben das Hotel online gebucht.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-27"
+    "box": 3,
+    "next_due": "2026-10-14"
   },
   {
     "word": "die Unterkunft",
@@ -365,8 +365,8 @@
     "example": "Wir suchen eine günstige Unterkunft.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-27"
+    "box": 3,
+    "next_due": "2026-10-14"
   },
   {
     "word": "die Sehenswürdigkeit",
@@ -374,8 +374,8 @@
     "example": "Wir haben viele Sehenswürdigkeiten besucht.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-27"
+    "box": 3,
+    "next_due": "2026-10-14"
   },
   {
     "word": "die Quelle",
@@ -778,27 +778,27 @@
     "translation": "самостійний",
     "example": "Er arbeitet gern selbstständig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-03"
   },
   {
     "word": "sich freuen",
     "translation": "радіти",
     "example": "Ich freue mich auf das Wochenende.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-03"
   },
   {
     "word": "enttäuscht",
     "translation": "розчарований",
     "example": "Sie war von dem Ergebnis enttäuscht.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-03"
   },
   {
     "word": "stolz",
