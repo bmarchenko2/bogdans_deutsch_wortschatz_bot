@@ -59,8 +59,8 @@
     "example": "Ich schreibe gerade eine Bewerbung.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-28"
+    "box": 4,
+    "next_due": "2026-10-31"
   },
   {
     "word": "der Lebenslauf",
@@ -68,8 +68,8 @@
     "example": "Der Lebenslauf muss aktuell sein.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-28"
+    "box": 4,
+    "next_due": "2026-10-31"
   },
   {
     "word": "die Ausbildung",
@@ -617,8 +617,8 @@
     "example": "Wir müssen unser Budget planen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-27"
+    "box": 2,
+    "next_due": "2026-10-08"
   },
   {
     "word": "die Rechnung",
@@ -626,8 +626,8 @@
     "example": "Ich habe die Rechnung schon bezahlt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-27"
+    "box": 2,
+    "next_due": "2026-10-08"
   },
   {
     "word": "der Kredit",
@@ -635,8 +635,8 @@
     "example": "Sie haben einen Kredit für die Wohnung aufgenommen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-27"
+    "box": 2,
+    "next_due": "2026-10-08"
   },
   {
     "word": "investieren",
@@ -805,27 +805,27 @@
     "translation": "гордий",
     "example": "Die Eltern sind stolz auf ihre Tochter.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-04"
   },
   {
     "word": "sich ärgern",
     "translation": "злитися / дратуватися",
     "example": "Er ärgert sich über die Verspätung.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-04"
   },
   {
     "word": "sich Sorgen machen",
     "translation": "хвилюватися",
     "example": "Ich mache mir Sorgen um ihn.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-04"
   },
   {
     "word": "der Niederschlag",
