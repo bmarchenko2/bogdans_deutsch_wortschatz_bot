@@ -77,8 +77,8 @@
     "example": "Er macht eine Ausbildung als Elektriker.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-28"
+    "box": 4,
+    "next_due": "2026-11-01"
   },
   {
     "word": "der Umzug",
@@ -383,8 +383,8 @@
     "example": "Man sollte die Quelle überprüfen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-28"
+    "box": 3,
+    "next_due": "2026-10-16"
   },
   {
     "word": "die Meinungsfreiheit",
@@ -392,8 +392,8 @@
     "example": "Meinungsfreiheit ist ein wichtiges Recht.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-28"
+    "box": 3,
+    "next_due": "2026-10-16"
   },
   {
     "word": "beeinflussen",
@@ -401,8 +401,8 @@
     "example": "Werbung beeinflusst unsere Entscheidungen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-28"
+    "box": 3,
+    "next_due": "2026-10-16"
   },
   {
     "word": "der Einfluss",
@@ -644,8 +644,8 @@
     "example": "Er investiert in Aktien.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-28"
+    "box": 2,
+    "next_due": "2026-10-09"
   },
   {
     "word": "die Prüfung",
@@ -832,27 +832,27 @@
     "translation": "опади",
     "example": "Für morgen ist starker Niederschlag angesagt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-05"
   },
   {
     "word": "die Landschaft",
     "translation": "краєвид / ландшафт",
     "example": "Die Landschaft in den Bergen ist wunderschön.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-05"
   },
   {
     "word": "der Stau",
     "translation": "затор (на дорозі)",
     "example": "Wegen des Staus kamen wir zu spät.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-05"
   },
   {
     "word": "der Fahrplan",
