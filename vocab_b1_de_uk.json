@@ -86,8 +86,8 @@
     "example": "Der Umzug war sehr stressig.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-29"
+    "box": 4,
+    "next_due": "2026-11-02"
   },
   {
     "word": "umziehen",
@@ -95,8 +95,8 @@
     "example": "Wir ziehen nächsten Monat um.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-29"
+    "box": 4,
+    "next_due": "2026-11-02"
   },
   {
     "word": "die Miete",
@@ -410,8 +410,8 @@
     "example": "Soziale Medien haben großen Einfluss.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-29"
+    "box": 3,
+    "next_due": "2026-10-17"
   },
   {
     "word": "sich engagieren",
@@ -653,8 +653,8 @@
     "example": "Die Prüfung war schwieriger als erwartet.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-28"
+    "box": 2,
+    "next_due": "2026-10-10"
   },
   {
     "word": "bestehen",
@@ -662,8 +662,8 @@
     "example": "Sie hat die Prüfung bestanden.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-28"
+    "box": 2,
+    "next_due": "2026-10-10"
   },
   {
     "word": "der Abschluss",
@@ -859,27 +859,27 @@
     "translation": "розклад руху",
     "example": "Der Fahrplan hat sich geändert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-06"
   },
   {
     "word": "umsteigen",
     "translation": "пересідати (на транспорт)",
     "example": "Sie müssen in Bern umsteigen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-06"
   },
   {
     "word": "der Kassenbon",
     "translation": "касовий чек",
     "example": "Bewahren Sie den Kassenbon auf.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-06"
   },
   {
     "word": "umtauschen",
