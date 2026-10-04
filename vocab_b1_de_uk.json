@@ -419,8 +419,8 @@
     "example": "Sie engagiert sich für den Umweltschutz.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-29"
+    "box": 3,
+    "next_due": "2026-10-18"
   },
   {
     "word": "die Rücksicht",
@@ -428,8 +428,8 @@
     "example": "Man sollte Rücksicht auf andere nehmen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-29"
+    "box": 3,
+    "next_due": "2026-10-18"
   },
   {
     "word": "trotzdem",
@@ -671,8 +671,8 @@
     "example": "Nach dem Abschluss sucht er eine Stelle.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-29"
+    "box": 2,
+    "next_due": "2026-10-11"
   },
   {
     "word": "die Fähigkeit",
@@ -680,8 +680,8 @@
     "example": "Er hat die Fähigkeit, gut zuzuhören.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-29"
+    "box": 2,
+    "next_due": "2026-10-11"
   },
   {
     "word": "sich konzentrieren",
@@ -689,8 +689,8 @@
     "example": "Ich kann mich schwer konzentrieren.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-29"
+    "box": 2,
+    "next_due": "2026-10-11"
   },
   {
     "word": "das Gerät",
@@ -886,27 +886,27 @@
     "translation": "обмінювати (товар)",
     "example": "Ich möchte den Pullover umtauschen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-07"
   },
   {
     "word": "das Angebot",
     "translation": "пропозиція / акція",
     "example": "Das Angebot gilt nur diese Woche.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-07"
   },
   {
     "word": "die Gesellschaft",
     "translation": "суспільство",
     "example": "Die Gesellschaft verändert sich ständig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-07"
   },
   {
     "word": "die Wahl",
