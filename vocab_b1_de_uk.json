@@ -104,8 +104,8 @@
     "example": "Die Miete steigt jedes Jahr.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-30"
+    "box": 4,
+    "next_due": "2026-11-04"
   },
   {
     "word": "der Vermieter",
@@ -113,8 +113,8 @@
     "example": "Der Vermieter hat die Wohnung renoviert.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-09-30"
+    "box": 4,
+    "next_due": "2026-11-04"
   },
   {
     "word": "die Nachbarschaft",
@@ -455,8 +455,8 @@
     "example": "Das Wetter war gut, allerdings war es kalt.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-30"
+    "box": 3,
+    "next_due": "2026-10-19"
   },
   {
     "word": "außerdem",
@@ -464,8 +464,8 @@
     "example": "Sie spricht Englisch, außerdem auch Französisch.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-30"
+    "box": 3,
+    "next_due": "2026-10-19"
   },
   {
     "word": "deshalb",
@@ -473,8 +473,8 @@
     "example": "Er war krank, deshalb ist er nicht gekommen.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-09-30"
+    "box": 3,
+    "next_due": "2026-10-19"
   },
   {
     "word": "während",
@@ -913,27 +913,27 @@
     "translation": "вибори",
     "example": "Die Wahl findet im Herbst statt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-08"
   },
   {
     "word": "abstimmen",
     "translation": "голосувати",
     "example": "Die Bürger stimmen über das Gesetz ab.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-08"
   },
   {
     "word": "die Freizeit",
     "translation": "вільний час",
     "example": "In meiner Freizeit lese ich gern.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-08"
   },
   {
     "word": "sich entspannen",
