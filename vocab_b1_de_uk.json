@@ -122,8 +122,8 @@
     "example": "Die Nachbarschaft ist sehr ruhig.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-01"
+    "box": 4,
+    "next_due": "2026-11-05"
   },
   {
     "word": "sich gewöhnen an",
@@ -131,8 +131,8 @@
     "example": "Ich habe mich an das Wetter gewöhnt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-01"
+    "box": 4,
+    "next_due": "2026-11-05"
   },
   {
     "word": "die Gewohnheit",
@@ -698,8 +698,8 @@
     "example": "Das Gerät funktioniert nicht mehr.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-30"
+    "box": 2,
+    "next_due": "2026-10-13"
   },
   {
     "word": "die Anwendung",
@@ -707,8 +707,8 @@
     "example": "Diese Anwendung ist sehr nützlich.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-30"
+    "box": 2,
+    "next_due": "2026-10-13"
   },
   {
     "word": "herunterladen",
@@ -716,8 +716,8 @@
     "example": "Ich habe die App heruntergeladen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-09-30"
+    "box": 2,
+    "next_due": "2026-10-13"
   },
   {
     "word": "speichern",
@@ -940,27 +940,27 @@
     "translation": "розслаблятися",
     "example": "Am Wochenende entspanne ich mich.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-09"
   },
   {
     "word": "der Haushalt",
     "translation": "домогосподарство / побут",
     "example": "Er kümmert sich um den Haushalt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-09"
   },
   {
     "word": "putzen",
     "translation": "прибирати",
     "example": "Ich putze die Wohnung jeden Samstag.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-09"
   },
   {
     "word": "die Wäsche",
