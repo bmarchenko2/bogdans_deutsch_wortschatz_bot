@@ -482,8 +482,8 @@
     "example": "Während ich Kaffee mag, trinkt sie lieber Tee.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-01"
+    "box": 3,
+    "next_due": "2026-10-21"
   },
   {
     "word": "dennoch",
@@ -491,8 +491,8 @@
     "example": "Es war schwer, dennoch hat sie es geschafft.",
     "type": "connector",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-01"
+    "box": 3,
+    "next_due": "2026-10-21"
   },
   {
     "word": "die Behörde",
@@ -500,8 +500,8 @@
     "example": "Ich muss zur Behörde, um die Anmeldung zu erledigen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-01"
+    "box": 3,
+    "next_due": "2026-10-21"
   },
   {
     "word": "die Anmeldung",
@@ -725,8 +725,8 @@
     "example": "Hast du die Datei gespeichert?",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-01"
+    "box": 2,
+    "next_due": "2026-10-14"
   },
   {
     "word": "die Sicherheit",
@@ -734,8 +734,8 @@
     "example": "Datensicherheit ist heute sehr wichtig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-01"
+    "box": 2,
+    "next_due": "2026-10-14"
   },
   {
     "word": "zuverlässig",
@@ -967,27 +967,27 @@
     "translation": "білизна (прання)",
     "example": "Ich muss noch die Wäsche waschen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-10"
   },
   {
     "word": "reparieren",
     "translation": "ремонтувати",
     "example": "Der Techniker hat die Waschmaschine repariert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-10"
   },
   {
     "word": "der Müll",
     "translation": "сміття",
     "example": "Bitte trenn den Müll richtig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-10"
   },
   {
     "word": "die Mülltrennung",
