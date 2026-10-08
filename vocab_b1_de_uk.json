@@ -140,8 +140,8 @@
     "example": "Rauchen ist eine schlechte Gewohnheit.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-02"
+    "box": 4,
+    "next_due": "2026-11-07"
   },
   {
     "word": "die Umwelt",
@@ -149,8 +149,8 @@
     "example": "Wir müssen die Umwelt schützen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-02"
+    "box": 4,
+    "next_due": "2026-11-07"
   },
   {
     "word": "der Klimawandel",
@@ -158,8 +158,8 @@
     "example": "Der Klimawandel betrifft uns alle.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-02"
+    "box": 4,
+    "next_due": "2026-11-07"
   },
   {
     "word": "nachhaltig",
@@ -509,8 +509,8 @@
     "example": "Die Anmeldung muss innerhalb von 14 Tagen erfolgen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-02"
+    "box": 3,
+    "next_due": "2026-10-22"
   },
   {
     "word": "die Aufenthaltsbewilligung",
@@ -743,8 +743,8 @@
     "example": "Er ist ein sehr zuverlässiger Kollege.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-01"
+    "box": 2,
+    "next_due": "2026-10-15"
   },
   {
     "word": "geduldig",
@@ -994,27 +994,27 @@
     "translation": "сортування сміття",
     "example": "Die Mülltrennung ist in der Schweiz sehr wichtig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-11"
   },
   {
     "word": "recyceln",
     "translation": "переробляти (сміття)",
     "example": "Wir recyceln Papier und Glas.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-11"
   },
   {
     "word": "die Zutat",
     "translation": "інгредієнт",
     "example": "Welche Zutaten brauchst du für den Kuchen?",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-11"
   },
   {
     "word": "braten",
