@@ -167,8 +167,8 @@
     "example": "Wir kaufen nachhaltige Produkte.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-03"
+    "box": 4,
+    "next_due": "2026-11-08"
   },
   {
     "word": "die Ressource",
@@ -518,8 +518,8 @@
     "example": "Er hat eine neue Aufenthaltsbewilligung beantragt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-02"
+    "box": 3,
+    "next_due": "2026-10-23"
   },
   {
     "word": "beantragen",
@@ -752,8 +752,8 @@
     "example": "Sie ist sehr geduldig mit den Kindern.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-02"
+    "box": 2,
+    "next_due": "2026-10-16"
   },
   {
     "word": "ehrlich",
@@ -761,8 +761,8 @@
     "example": "Ich schätze ehrliche Menschen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-02"
+    "box": 2,
+    "next_due": "2026-10-16"
   },
   {
     "word": "neugierig",
@@ -770,8 +770,8 @@
     "example": "Kinder sind oft sehr neugierig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-02"
+    "box": 2,
+    "next_due": "2026-10-16"
   },
   {
     "word": "selbstständig",
@@ -1021,27 +1021,27 @@
     "translation": "смажити",
     "example": "Sie brät das Gemüse in der Pfanne.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-12"
   },
   {
     "word": "der Geschmack",
     "translation": "смак",
     "example": "Der Geschmack der Suppe ist sehr würzig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-12"
   },
   {
     "word": "bio",
     "translation": "органічний / біо",
     "example": "Wir kaufen meistens Bio-Produkte.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-12"
   },
   {
     "word": "sich fit halten",
