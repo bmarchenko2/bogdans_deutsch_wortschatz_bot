@@ -176,8 +176,8 @@
     "example": "Wasser ist eine wichtige Ressource.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-03"
+    "box": 4,
+    "next_due": "2026-11-09"
   },
   {
     "word": "die Gesundheit",
@@ -527,8 +527,8 @@
     "example": "Sie hat ein Visum beantragt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-03"
+    "box": 3,
+    "next_due": "2026-10-24"
   },
   {
     "word": "die Bescheinigung",
@@ -536,8 +536,8 @@
     "example": "Ich brauche eine Bescheinigung von der Schule.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-03"
+    "box": 3,
+    "next_due": "2026-10-24"
   },
   {
     "word": "die Steuererklärung",
@@ -779,8 +779,8 @@
     "example": "Er arbeitet gern selbstständig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-03"
+    "box": 2,
+    "next_due": "2026-10-17"
   },
   {
     "word": "sich freuen",
@@ -788,8 +788,8 @@
     "example": "Ich freue mich auf das Wochenende.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-03"
+    "box": 2,
+    "next_due": "2026-10-17"
   },
   {
     "word": "enttäuscht",
@@ -1048,27 +1048,27 @@
     "translation": "підтримувати форму",
     "example": "Er hält sich mit Joggen fit.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-13"
   },
   {
     "word": "die Mannschaft",
     "translation": "команда",
     "example": "Unsere Mannschaft hat das Spiel gewonnen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-13"
   },
   {
     "word": "der Wettkampf",
     "translation": "змагання",
     "example": "Der Wettkampf findet am Samstag statt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-13"
   },
   {
     "word": "die Ausstellung",
