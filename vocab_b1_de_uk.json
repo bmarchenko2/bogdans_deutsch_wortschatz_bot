@@ -185,8 +185,8 @@
     "example": "Gesundheit ist das Wichtigste im Leben.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-04"
+    "box": 4,
+    "next_due": "2026-11-10"
   },
   {
     "word": "sich erkälten",
@@ -194,8 +194,8 @@
     "example": "Ich habe mich letzte Woche erkältet.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-04"
+    "box": 4,
+    "next_due": "2026-11-10"
   },
   {
     "word": "die Behandlung",
@@ -545,8 +545,8 @@
     "example": "Die Steuererklärung muss bis Ende März abgegeben werden.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-04"
+    "box": 3,
+    "next_due": "2026-10-25"
   },
   {
     "word": "die Gebühr",
@@ -554,8 +554,8 @@
     "example": "Für den Reisepass fällt eine Gebühr an.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-04"
+    "box": 3,
+    "next_due": "2026-10-25"
   },
   {
     "word": "die Frist",
@@ -797,8 +797,8 @@
     "example": "Sie war von dem Ergebnis enttäuscht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-03"
+    "box": 2,
+    "next_due": "2026-10-18"
   },
   {
     "word": "stolz",
@@ -1075,27 +1075,27 @@
     "translation": "виставка",
     "example": "Die Ausstellung im Museum war beeindruckend.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-14"
   },
   {
     "word": "die Aufführung",
     "translation": "вистава / виступ",
     "example": "Die Aufführung im Theater dauerte zwei Stunden.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-14"
   },
   {
     "word": "das Kunstwerk",
     "translation": "витвір мистецтва",
     "example": "Dieses Kunstwerk stammt aus dem 19. Jahrhundert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-14"
   },
   {
     "word": "der Anhang",
