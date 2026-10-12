@@ -563,8 +563,8 @@
     "example": "Die Frist für die Anmeldung läuft morgen ab.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-04"
+    "box": 3,
+    "next_due": "2026-10-26"
   },
   {
     "word": "die Unterlagen",
@@ -572,8 +572,8 @@
     "example": "Bitte bringen Sie alle Unterlagen mit.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-04"
+    "box": 3,
+    "next_due": "2026-10-26"
   },
   {
     "word": "der Antrag",
@@ -581,8 +581,8 @@
     "example": "Der Antrag wurde genehmigt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-04"
+    "box": 3,
+    "next_due": "2026-10-26"
   },
   {
     "word": "das Einkommen",
@@ -806,8 +806,8 @@
     "example": "Die Eltern sind stolz auf ihre Tochter.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-04"
+    "box": 2,
+    "next_due": "2026-10-19"
   },
   {
     "word": "sich ärgern",
@@ -815,8 +815,8 @@
     "example": "Er ärgert sich über die Verspätung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-04"
+    "box": 2,
+    "next_due": "2026-10-19"
   },
   {
     "word": "sich Sorgen machen",
@@ -1102,27 +1102,27 @@
     "translation": "вкладення (файл)",
     "example": "Ich habe die Datei als Anhang geschickt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-15"
   },
   {
     "word": "anrufen",
     "translation": "телефонувати",
     "example": "Ich rufe dich später an.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-15"
   },
   {
     "word": "eine Nachricht hinterlassen",
     "translation": "залишити повідомлення",
     "example": "Er hat mir eine Nachricht hinterlassen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-15"
   },
   {
     "word": "sich verabreden",
