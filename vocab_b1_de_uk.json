@@ -203,8 +203,8 @@
     "example": "Die Behandlung dauert mehrere Wochen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-05"
+    "box": 4,
+    "next_due": "2026-11-12"
   },
   {
     "word": "der Termin",
@@ -212,8 +212,8 @@
     "example": "Ich habe einen Termin beim Arzt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-05"
+    "box": 4,
+    "next_due": "2026-11-12"
   },
   {
     "word": "die Versicherung",
@@ -824,8 +824,8 @@
     "example": "Ich mache mir Sorgen um ihn.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-04"
+    "box": 2,
+    "next_due": "2026-10-20"
   },
   {
     "word": "der Niederschlag",
@@ -833,8 +833,8 @@
     "example": "Für morgen ist starker Niederschlag angesagt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-05"
+    "box": 2,
+    "next_due": "2026-10-20"
   },
   {
     "word": "die Landschaft",
@@ -842,8 +842,8 @@
     "example": "Die Landschaft in den Bergen ist wunderschön.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-05"
+    "box": 2,
+    "next_due": "2026-10-20"
   },
   {
     "word": "der Stau",
@@ -1129,27 +1129,27 @@
     "translation": "домовлятися про зустріч",
     "example": "Wir haben uns für Freitag verabredet.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-16"
   },
   {
     "word": "das Aussehen",
     "translation": "зовнішність",
     "example": "Das Aussehen spielt für sie keine Rolle.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-16"
   },
   {
     "word": "gepflegt",
     "translation": "доглянутий",
     "example": "Er ist immer sehr gepflegt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-16"
   },
   {
     "word": "rechtzeitig",
