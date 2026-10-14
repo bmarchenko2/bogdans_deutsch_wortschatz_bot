@@ -221,8 +221,8 @@
     "example": "Meine Versicherung übernimmt die Kosten.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-06"
+    "box": 4,
+    "next_due": "2026-11-13"
   },
   {
     "word": "sich fühlen",
@@ -230,8 +230,8 @@
     "example": "Ich fühle mich heute besser.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-06"
+    "box": 4,
+    "next_due": "2026-11-13"
   },
   {
     "word": "die Beziehung",
@@ -590,8 +590,8 @@
     "example": "Sein Einkommen ist in den letzten Jahren gestiegen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-06"
+    "box": 3,
+    "next_due": "2026-10-28"
   },
   {
     "word": "sparen",
@@ -599,8 +599,8 @@
     "example": "Wir sparen für ein neues Auto.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-06"
+    "box": 3,
+    "next_due": "2026-10-28"
   },
   {
     "word": "die Ausgabe",
@@ -851,8 +851,8 @@
     "example": "Wegen des Staus kamen wir zu spät.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-05"
+    "box": 2,
+    "next_due": "2026-10-21"
   },
   {
     "word": "der Fahrplan",
@@ -1156,27 +1156,27 @@
     "translation": "вчасно (заздалегідь)",
     "example": "Bitte komm rechtzeitig zum Termin.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-17"
   },
   {
     "word": "pünktlich",
     "translation": "пунктуальний / точно вчасно",
     "example": "Der Zug ist pünktlich abgefahren.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-17"
   },
   {
     "word": "vor kurzem",
     "translation": "нещодавно",
     "example": "Wir haben uns vor kurzem kennengelernt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-17"
   },
   {
     "word": "demnächst",
