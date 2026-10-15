@@ -239,8 +239,8 @@
     "example": "Sie haben eine gute Beziehung.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-07"
+    "box": 4,
+    "next_due": "2026-11-14"
   },
   {
     "word": "die Meinung",
@@ -608,8 +608,8 @@
     "example": "Die monatlichen Ausgaben sind hoch.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-06"
+    "box": 3,
+    "next_due": "2026-10-29"
   },
   {
     "word": "das Budget",
@@ -860,8 +860,8 @@
     "example": "Der Fahrplan hat sich geändert.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-06"
+    "box": 2,
+    "next_due": "2026-10-22"
   },
   {
     "word": "umsteigen",
@@ -869,8 +869,8 @@
     "example": "Sie müssen in Bern umsteigen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-06"
+    "box": 2,
+    "next_due": "2026-10-22"
   },
   {
     "word": "der Kassenbon",
@@ -878,8 +878,8 @@
     "example": "Bewahren Sie den Kassenbon auf.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-06"
+    "box": 2,
+    "next_due": "2026-10-22"
   },
   {
     "word": "umtauschen",
@@ -1183,27 +1183,27 @@
     "translation": "незабаром",
     "example": "Der Film kommt demnächst ins Kino.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-18"
   },
   {
     "word": "die Erziehung",
     "translation": "виховання",
     "example": "Die Erziehung der Kinder ist nicht immer einfach.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-18"
   },
   {
     "word": "erziehen",
     "translation": "виховувати",
     "example": "Sie erziehen ihre Kinder sehr liebevoll.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-18"
   },
   {
     "word": "der Elternurlaub",
