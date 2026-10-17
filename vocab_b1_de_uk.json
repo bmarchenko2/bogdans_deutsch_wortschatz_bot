@@ -266,8 +266,8 @@
     "example": "Ich schlage vor, früher zu starten.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-08"
+    "box": 4,
+    "next_due": "2026-11-16"
   },
   {
     "word": "die Entscheidung",
@@ -617,8 +617,8 @@
     "example": "Wir müssen unser Budget planen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-08"
+    "box": 3,
+    "next_due": "2026-10-31"
   },
   {
     "word": "die Rechnung",
@@ -626,8 +626,8 @@
     "example": "Ich habe die Rechnung schon bezahlt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-08"
+    "box": 3,
+    "next_due": "2026-10-31"
   },
   {
     "word": "der Kredit",
@@ -635,8 +635,8 @@
     "example": "Sie haben einen Kredit für die Wohnung aufgenommen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-08"
+    "box": 3,
+    "next_due": "2026-10-31"
   },
   {
     "word": "investieren",
@@ -914,8 +914,8 @@
     "example": "Die Wahl findet im Herbst statt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-08"
+    "box": 2,
+    "next_due": "2026-10-24"
   },
   {
     "word": "abstimmen",
@@ -1237,27 +1237,27 @@
     "translation": "дозволено",
     "example": "Rauchen ist hier nicht erlaubt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-20"
   },
   {
     "word": "verbieten",
     "translation": "забороняти",
     "example": "Man hat das Rauchen im Restaurant verboten.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-20"
   },
   {
     "word": "der Kollege",
     "translation": "колега",
     "example": "Meine Kollegin hilft mir oft.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-20"
   },
   {
     "word": "die Teamarbeit",
