@@ -275,8 +275,8 @@
     "example": "Das war eine schwierige Entscheidung.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-09"
+    "box": 4,
+    "next_due": "2026-11-17"
   },
   {
     "word": "entscheiden",
@@ -284,8 +284,8 @@
     "example": "Wir müssen uns bald entscheiden.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-09"
+    "box": 4,
+    "next_due": "2026-11-17"
   },
   {
     "word": "der Unterschied",
@@ -293,8 +293,8 @@
     "example": "Es gibt einen großen Unterschied.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-09"
+    "box": 4,
+    "next_due": "2026-11-17"
   },
   {
     "word": "vergleichen",
@@ -923,8 +923,8 @@
     "example": "Die Bürger stimmen über das Gesetz ab.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-08"
+    "box": 2,
+    "next_due": "2026-10-25"
   },
   {
     "word": "die Freizeit",
@@ -932,8 +932,8 @@
     "example": "In meiner Freizeit lese ich gern.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-08"
+    "box": 2,
+    "next_due": "2026-10-25"
   },
   {
     "word": "sich entspannen",
@@ -1264,27 +1264,27 @@
     "translation": "командна робота",
     "example": "Teamarbeit ist in diesem Job sehr wichtig.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-21"
   },
   {
     "word": "die Karriere",
     "translation": "кар'єра",
     "example": "Sie macht eine schnelle Karriere.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-21"
   },
   {
     "word": "befördern",
     "translation": "підвищувати на посаді",
     "example": "Er wurde letztes Jahr befördert.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-21"
   },
   {
     "word": "die Überstunde",
