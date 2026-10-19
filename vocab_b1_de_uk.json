@@ -302,8 +302,8 @@
     "example": "Man kann die beiden Angebote vergleichen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-10"
+    "box": 4,
+    "next_due": "2026-11-18"
   },
   {
     "word": "die Erwartung",
@@ -644,8 +644,8 @@
     "example": "Er investiert in Aktien.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-09"
+    "box": 3,
+    "next_due": "2026-11-02"
   },
   {
     "word": "die Prüfung",
@@ -941,8 +941,8 @@
     "example": "Am Wochenende entspanne ich mich.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-09"
+    "box": 2,
+    "next_due": "2026-10-26"
   },
   {
     "word": "der Haushalt",
@@ -950,8 +950,8 @@
     "example": "Er kümmert sich um den Haushalt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-09"
+    "box": 2,
+    "next_due": "2026-10-26"
   },
   {
     "word": "putzen",
@@ -959,8 +959,8 @@
     "example": "Ich putze die Wohnung jeden Samstag.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-09"
+    "box": 2,
+    "next_due": "2026-10-26"
   },
   {
     "word": "die Wäsche",
@@ -1291,27 +1291,27 @@
     "translation": "понаднормова робота",
     "example": "Ich muss heute Überstunden machen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-22"
   },
   {
     "word": "die Möbel",
     "translation": "меблі",
     "example": "Wir haben neue Möbel gekauft.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-22"
   },
   {
     "word": "renovieren",
     "translation": "ремонтувати (приміщення)",
     "example": "Wir renovieren gerade die Küche.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-22"
   },
   {
     "word": "der Balkon",
