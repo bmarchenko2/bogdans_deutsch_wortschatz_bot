@@ -311,8 +311,8 @@
     "example": "Die Erwartungen waren sehr hoch.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-10"
+    "box": 4,
+    "next_due": "2026-11-19"
   },
   {
     "word": "erwarten",
@@ -320,8 +320,8 @@
     "example": "Ich erwarte eine schnelle Antwort.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-10"
+    "box": 4,
+    "next_due": "2026-11-19"
   },
   {
     "word": "die Herausforderung",
@@ -653,8 +653,8 @@
     "example": "Die Prüfung war schwieriger als erwartet.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-10"
+    "box": 3,
+    "next_due": "2026-11-03"
   },
   {
     "word": "bestehen",
@@ -662,8 +662,8 @@
     "example": "Sie hat die Prüfung bestanden.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-10"
+    "box": 3,
+    "next_due": "2026-11-03"
   },
   {
     "word": "der Abschluss",
@@ -968,8 +968,8 @@
     "example": "Ich muss noch die Wäsche waschen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-10"
+    "box": 2,
+    "next_due": "2026-10-27"
   },
   {
     "word": "reparieren",
@@ -1318,27 +1318,27 @@
     "translation": "балкон",
     "example": "Im Sommer sitzen wir gern auf dem Balkon.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-23"
   },
   {
     "word": "der Zoll",
     "translation": "митниця",
     "example": "Am Flughafen mussten wir durch den Zoll.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-23"
   },
   {
     "word": "die Grenze",
     "translation": "кордон",
     "example": "Die Grenze war nicht weit entfernt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-23"
   },
   {
     "word": "das Gepäck",
