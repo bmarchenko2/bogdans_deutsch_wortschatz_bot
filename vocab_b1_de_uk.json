@@ -671,8 +671,8 @@
     "example": "Nach dem Abschluss sucht er eine Stelle.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-11"
+    "box": 3,
+    "next_due": "2026-11-04"
   },
   {
     "word": "die Fähigkeit",
@@ -680,8 +680,8 @@
     "example": "Er hat die Fähigkeit, gut zuzuhören.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-11"
+    "box": 3,
+    "next_due": "2026-11-04"
   },
   {
     "word": "sich konzentrieren",
@@ -689,8 +689,8 @@
     "example": "Ich kann mich schwer konzentrieren.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-11"
+    "box": 3,
+    "next_due": "2026-11-04"
   },
   {
     "word": "das Gerät",
@@ -977,8 +977,8 @@
     "example": "Der Techniker hat die Waschmaschine repariert.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-10"
+    "box": 2,
+    "next_due": "2026-10-28"
   },
   {
     "word": "der Müll",
@@ -986,8 +986,8 @@
     "example": "Bitte trenn den Müll richtig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-10"
+    "box": 2,
+    "next_due": "2026-10-28"
   },
   {
     "word": "die Mülltrennung",
@@ -1345,27 +1345,27 @@
     "translation": "багаж",
     "example": "Mein Gepäck ist noch nicht angekommen.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-24"
   },
   {
     "word": "der Abfall",
     "translation": "відходи",
     "example": "Der Abfall wird jede Woche abgeholt.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-24"
   },
   {
     "word": "die Energie",
     "translation": "енергія",
     "example": "Wir sparen Energie, wo es geht.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-24"
   },
   {
     "word": "erneuerbar",
