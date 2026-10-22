@@ -329,8 +329,8 @@
     "example": "Das ist eine große Herausforderung.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-12"
+    "box": 4,
+    "next_due": "2026-11-21"
   },
   {
     "word": "bewältigen",
@@ -338,8 +338,8 @@
     "example": "Er hat die Schwierigkeiten gut bewältigt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-12"
+    "box": 4,
+    "next_due": "2026-11-21"
   },
   {
     "word": "die Verspätung",
@@ -995,8 +995,8 @@
     "example": "Die Mülltrennung ist in der Schweiz sehr wichtig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-11"
+    "box": 2,
+    "next_due": "2026-10-29"
   },
   {
     "word": "recyceln",
@@ -1004,8 +1004,8 @@
     "example": "Wir recyceln Papier und Glas.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-11"
+    "box": 2,
+    "next_due": "2026-10-29"
   },
   {
     "word": "die Zutat",
@@ -1013,8 +1013,8 @@
     "example": "Welche Zutaten brauchst du für den Kuchen?",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-11"
+    "box": 2,
+    "next_due": "2026-10-29"
   },
   {
     "word": "braten",
@@ -1372,26 +1372,26 @@
     "translation": "відновлювальний",
     "example": "Erneuerbare Energien werden immer wichtiger.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-25"
   },
   {
     "word": "großzügig",
     "translation": "щедрий",
     "example": "Er ist sehr großzügig mit seiner Zeit.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-25"
   },
   {
     "word": "bescheiden",
     "translation": "скромний",
     "example": "Sie ist trotz ihres Erfolgs sehr bescheiden.",
     "type": "word",
-    "status": "new",
-    "box": 0,
-    "next_due": null
+    "status": "learning",
+    "box": 1,
+    "next_due": "2026-10-25"
   }
 ]
