@@ -347,8 +347,8 @@
     "example": "Der Zug hatte eine Stunde Verspätung.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-13"
+    "box": 4,
+    "next_due": "2026-11-22"
   },
   {
     "word": "buchen",
@@ -698,8 +698,8 @@
     "example": "Das Gerät funktioniert nicht mehr.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-13"
+    "box": 3,
+    "next_due": "2026-11-06"
   },
   {
     "word": "die Anwendung",
@@ -1022,8 +1022,8 @@
     "example": "Sie brät das Gemüse in der Pfanne.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-12"
+    "box": 2,
+    "next_due": "2026-10-30"
   },
   {
     "word": "der Geschmack",
@@ -1031,8 +1031,8 @@
     "example": "Der Geschmack der Suppe ist sehr würzig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-12"
+    "box": 2,
+    "next_due": "2026-10-30"
   },
   {
     "word": "bio",
@@ -1040,8 +1040,8 @@
     "example": "Wir kaufen meistens Bio-Produkte.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-12"
+    "box": 2,
+    "next_due": "2026-10-30"
   },
   {
     "word": "sich fit halten",
