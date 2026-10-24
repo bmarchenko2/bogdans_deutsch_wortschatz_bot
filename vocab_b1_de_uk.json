@@ -707,8 +707,8 @@
     "example": "Diese Anwendung ist sehr nützlich.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-13"
+    "box": 3,
+    "next_due": "2026-11-07"
   },
   {
     "word": "herunterladen",
@@ -716,8 +716,8 @@
     "example": "Ich habe die App heruntergeladen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-13"
+    "box": 3,
+    "next_due": "2026-11-07"
   },
   {
     "word": "speichern",
@@ -1049,8 +1049,8 @@
     "example": "Er hält sich mit Joggen fit.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-13"
+    "box": 2,
+    "next_due": "2026-10-31"
   },
   {
     "word": "die Mannschaft",
@@ -1058,8 +1058,8 @@
     "example": "Unsere Mannschaft hat das Spiel gewonnen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-13"
+    "box": 2,
+    "next_due": "2026-10-31"
   },
   {
     "word": "der Wettkampf",
@@ -1067,8 +1067,8 @@
     "example": "Der Wettkampf findet am Samstag statt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-13"
+    "box": 2,
+    "next_due": "2026-10-31"
   },
   {
     "word": "die Ausstellung",
