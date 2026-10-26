@@ -743,8 +743,8 @@
     "example": "Er ist ein sehr zuverlässiger Kollege.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-15"
+    "box": 3,
+    "next_due": "2026-11-09"
   },
   {
     "word": "geduldig",
@@ -1076,8 +1076,8 @@
     "example": "Die Ausstellung im Museum war beeindruckend.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-14"
+    "box": 2,
+    "next_due": "2026-11-02"
   },
   {
     "word": "die Aufführung",
@@ -1085,8 +1085,8 @@
     "example": "Die Aufführung im Theater dauerte zwei Stunden.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-14"
+    "box": 2,
+    "next_due": "2026-11-02"
   },
   {
     "word": "das Kunstwerk",
@@ -1094,8 +1094,8 @@
     "example": "Dieses Kunstwerk stammt aus dem 19. Jahrhundert.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-14"
+    "box": 2,
+    "next_due": "2026-11-02"
   },
   {
     "word": "der Anhang",
@@ -1103,8 +1103,8 @@
     "example": "Ich habe die Datei als Anhang geschickt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-15"
+    "box": 2,
+    "next_due": "2026-11-02"
   },
   {
     "word": "anrufen",
