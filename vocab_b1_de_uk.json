@@ -383,8 +383,8 @@
     "example": "Man sollte die Quelle überprüfen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-16"
+    "box": 4,
+    "next_due": "2026-11-26"
   },
   {
     "word": "die Meinungsfreiheit",
@@ -392,8 +392,8 @@
     "example": "Meinungsfreiheit ist ein wichtiges Recht.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-16"
+    "box": 4,
+    "next_due": "2026-11-26"
   },
   {
     "word": "beeinflussen",
@@ -401,8 +401,8 @@
     "example": "Werbung beeinflusst unsere Entscheidungen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-16"
+    "box": 4,
+    "next_due": "2026-11-26"
   },
   {
     "word": "der Einfluss",
@@ -1112,8 +1112,8 @@
     "example": "Ich rufe dich später an.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-15"
+    "box": 2,
+    "next_due": "2026-11-03"
   },
   {
     "word": "eine Nachricht hinterlassen",
@@ -1121,8 +1121,8 @@
     "example": "Er hat mir eine Nachricht hinterlassen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-15"
+    "box": 2,
+    "next_due": "2026-11-03"
   },
   {
     "word": "sich verabreden",
