@@ -752,8 +752,8 @@
     "example": "Sie ist sehr geduldig mit den Kindern.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-16"
+    "box": 3,
+    "next_due": "2026-11-11"
   },
   {
     "word": "ehrlich",
@@ -761,8 +761,8 @@
     "example": "Ich schätze ehrliche Menschen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-16"
+    "box": 3,
+    "next_due": "2026-11-11"
   },
   {
     "word": "neugierig",
@@ -770,8 +770,8 @@
     "example": "Kinder sind oft sehr neugierig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-16"
+    "box": 3,
+    "next_due": "2026-11-11"
   },
   {
     "word": "selbstständig",
@@ -1130,8 +1130,8 @@
     "example": "Wir haben uns für Freitag verabredet.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-16"
+    "box": 2,
+    "next_due": "2026-11-04"
   },
   {
     "word": "das Aussehen",
@@ -1139,8 +1139,8 @@
     "example": "Das Aussehen spielt für sie keine Rolle.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-16"
+    "box": 2,
+    "next_due": "2026-11-04"
   },
   {
     "word": "gepflegt",
