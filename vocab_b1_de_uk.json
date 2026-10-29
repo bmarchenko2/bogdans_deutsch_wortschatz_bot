@@ -410,8 +410,8 @@
     "example": "Soziale Medien haben großen Einfluss.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-17"
+    "box": 4,
+    "next_due": "2026-11-28"
   },
   {
     "word": "sich engagieren",
@@ -779,8 +779,8 @@
     "example": "Er arbeitet gern selbstständig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-17"
+    "box": 3,
+    "next_due": "2026-11-12"
   },
   {
     "word": "sich freuen",
@@ -788,8 +788,8 @@
     "example": "Ich freue mich auf das Wochenende.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-17"
+    "box": 3,
+    "next_due": "2026-11-12"
   },
   {
     "word": "enttäuscht",
@@ -1148,8 +1148,8 @@
     "example": "Er ist immer sehr gepflegt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-16"
+    "box": 2,
+    "next_due": "2026-11-05"
   },
   {
     "word": "rechtzeitig",
@@ -1157,8 +1157,8 @@
     "example": "Bitte komm rechtzeitig zum Termin.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-17"
+    "box": 2,
+    "next_due": "2026-11-05"
   },
   {
     "word": "pünktlich",
