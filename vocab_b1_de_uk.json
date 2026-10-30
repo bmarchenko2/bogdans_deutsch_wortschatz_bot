@@ -419,8 +419,8 @@
     "example": "Sie engagiert sich für den Umweltschutz.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-18"
+    "box": 4,
+    "next_due": "2026-11-29"
   },
   {
     "word": "die Rücksicht",
@@ -428,8 +428,8 @@
     "example": "Man sollte Rücksicht auf andere nehmen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-18"
+    "box": 4,
+    "next_due": "2026-11-29"
   },
   {
     "word": "trotzdem",
@@ -437,8 +437,8 @@
     "example": "Es regnete, trotzdem sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-10-18"
+    "box": 5,
+    "next_due": "2026-12-29"
   },
   {
     "word": "obwohl",
@@ -1166,8 +1166,8 @@
     "example": "Der Zug ist pünktlich abgefahren.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-17"
+    "box": 2,
+    "next_due": "2026-11-06"
   },
   {
     "word": "vor kurzem",
@@ -1175,8 +1175,8 @@
     "example": "Wir haben uns vor kurzem kennengelernt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-17"
+    "box": 2,
+    "next_due": "2026-11-06"
   },
   {
     "word": "demnächst",
