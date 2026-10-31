@@ -446,8 +446,8 @@
     "example": "Obwohl es regnete, sind wir spazieren gegangen.",
     "type": "connector",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-10-18"
+    "box": 5,
+    "next_due": "2026-12-30"
   },
   {
     "word": "allerdings",
@@ -797,8 +797,8 @@
     "example": "Sie war von dem Ergebnis enttäuscht.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-18"
+    "box": 3,
+    "next_due": "2026-11-14"
   },
   {
     "word": "stolz",
@@ -1184,8 +1184,8 @@
     "example": "Der Film kommt demnächst ins Kino.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-18"
+    "box": 2,
+    "next_due": "2026-11-07"
   },
   {
     "word": "die Erziehung",
@@ -1193,8 +1193,8 @@
     "example": "Die Erziehung der Kinder ist nicht immer einfach.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-18"
+    "box": 2,
+    "next_due": "2026-11-07"
   },
   {
     "word": "erziehen",
@@ -1202,8 +1202,8 @@
     "example": "Sie erziehen ihre Kinder sehr liebevoll.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-18"
+    "box": 2,
+    "next_due": "2026-11-07"
   },
   {
     "word": "der Elternurlaub",
