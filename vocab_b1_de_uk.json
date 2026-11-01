@@ -455,8 +455,8 @@
     "example": "Das Wetter war gut, allerdings war es kalt.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-19"
+    "box": 4,
+    "next_due": "2026-12-01"
   },
   {
     "word": "außerdem",
@@ -464,8 +464,8 @@
     "example": "Sie spricht Englisch, außerdem auch Französisch.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-19"
+    "box": 4,
+    "next_due": "2026-12-01"
   },
   {
     "word": "deshalb",
@@ -473,8 +473,8 @@
     "example": "Er war krank, deshalb ist er nicht gekommen.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-19"
+    "box": 4,
+    "next_due": "2026-12-01"
   },
   {
     "word": "während",
@@ -806,8 +806,8 @@
     "example": "Die Eltern sind stolz auf ihre Tochter.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-19"
+    "box": 3,
+    "next_due": "2026-11-15"
   },
   {
     "word": "sich ärgern",
@@ -815,8 +815,8 @@
     "example": "Er ärgert sich über die Verspätung.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-19"
+    "box": 3,
+    "next_due": "2026-11-15"
   },
   {
     "word": "sich Sorgen machen",
