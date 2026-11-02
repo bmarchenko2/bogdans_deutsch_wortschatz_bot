@@ -824,8 +824,8 @@
     "example": "Ich mache mir Sorgen um ihn.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-20"
+    "box": 3,
+    "next_due": "2026-11-16"
   },
   {
     "word": "der Niederschlag",
@@ -833,8 +833,8 @@
     "example": "Für morgen ist starker Niederschlag angesagt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-20"
+    "box": 3,
+    "next_due": "2026-11-16"
   },
   {
     "word": "die Landschaft",
@@ -1211,8 +1211,8 @@
     "example": "Er nimmt drei Monate Elternurlaub.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-19"
+    "box": 2,
+    "next_due": "2026-11-09"
   },
   {
     "word": "das Recht",
@@ -1220,8 +1220,8 @@
     "example": "Jeder hat das Recht auf Bildung.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-19"
+    "box": 2,
+    "next_due": "2026-11-09"
   },
   {
     "word": "die Pflicht",
@@ -1229,8 +1229,8 @@
     "example": "Steuern zahlen ist eine Pflicht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-19"
+    "box": 2,
+    "next_due": "2026-11-09"
   },
   {
     "word": "erlaubt",
