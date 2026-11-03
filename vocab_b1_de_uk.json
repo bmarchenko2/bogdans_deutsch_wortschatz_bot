@@ -482,8 +482,8 @@
     "example": "Während ich Kaffee mag, trinkt sie lieber Tee.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-21"
+    "box": 4,
+    "next_due": "2026-12-03"
   },
   {
     "word": "dennoch",
@@ -842,8 +842,8 @@
     "example": "Die Landschaft in den Bergen ist wunderschön.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-20"
+    "box": 3,
+    "next_due": "2026-11-17"
   },
   {
     "word": "der Stau",
@@ -1238,8 +1238,8 @@
     "example": "Rauchen ist hier nicht erlaubt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-20"
+    "box": 2,
+    "next_due": "2026-11-10"
   },
   {
     "word": "verbieten",
@@ -1247,8 +1247,8 @@
     "example": "Man hat das Rauchen im Restaurant verboten.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-20"
+    "box": 2,
+    "next_due": "2026-11-10"
   },
   {
     "word": "der Kollege",
@@ -1256,8 +1256,8 @@
     "example": "Meine Kollegin hilft mir oft.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-20"
+    "box": 2,
+    "next_due": "2026-11-10"
   },
   {
     "word": "die Teamarbeit",
