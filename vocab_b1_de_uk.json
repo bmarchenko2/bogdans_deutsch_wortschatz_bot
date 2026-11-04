@@ -491,8 +491,8 @@
     "example": "Es war schwer, dennoch hat sie es geschafft.",
     "type": "connector",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-21"
+    "box": 4,
+    "next_due": "2026-12-04"
   },
   {
     "word": "die Behörde",
@@ -500,8 +500,8 @@
     "example": "Ich muss zur Behörde, um die Anmeldung zu erledigen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-21"
+    "box": 4,
+    "next_due": "2026-12-04"
   },
   {
     "word": "die Anmeldung",
@@ -851,8 +851,8 @@
     "example": "Wegen des Staus kamen wir zu spät.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-21"
+    "box": 3,
+    "next_due": "2026-11-18"
   },
   {
     "word": "der Fahrplan",
@@ -1265,8 +1265,8 @@
     "example": "Teamarbeit ist in diesem Job sehr wichtig.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-21"
+    "box": 2,
+    "next_due": "2026-11-11"
   },
   {
     "word": "die Karriere",
@@ -1274,8 +1274,8 @@
     "example": "Sie macht eine schnelle Karriere.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-21"
+    "box": 2,
+    "next_due": "2026-11-11"
   },
   {
     "word": "befördern",
