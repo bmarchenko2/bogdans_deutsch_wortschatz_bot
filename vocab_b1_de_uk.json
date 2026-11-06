@@ -518,8 +518,8 @@
     "example": "Er hat eine neue Aufenthaltsbewilligung beantragt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-23"
+    "box": 4,
+    "next_due": "2026-12-06"
   },
   {
     "word": "beantragen",
@@ -887,8 +887,8 @@
     "example": "Ich möchte den Pullover umtauschen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-23"
+    "box": 3,
+    "next_due": "2026-11-20"
   },
   {
     "word": "das Angebot",
@@ -1292,8 +1292,8 @@
     "example": "Ich muss heute Überstunden machen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-22"
+    "box": 2,
+    "next_due": "2026-11-13"
   },
   {
     "word": "die Möbel",
@@ -1301,8 +1301,8 @@
     "example": "Wir haben neue Möbel gekauft.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-22"
+    "box": 2,
+    "next_due": "2026-11-13"
   },
   {
     "word": "renovieren",
@@ -1310,8 +1310,8 @@
     "example": "Wir renovieren gerade die Küche.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-22"
+    "box": 2,
+    "next_due": "2026-11-13"
   },
   {
     "word": "der Balkon",
