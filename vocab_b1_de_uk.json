@@ -896,8 +896,8 @@
     "example": "Das Angebot gilt nur diese Woche.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-23"
+    "box": 3,
+    "next_due": "2026-11-21"
   },
   {
     "word": "die Gesellschaft",
@@ -905,8 +905,8 @@
     "example": "Die Gesellschaft verändert sich ständig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-23"
+    "box": 3,
+    "next_due": "2026-11-21"
   },
   {
     "word": "die Wahl",
@@ -1319,8 +1319,8 @@
     "example": "Im Sommer sitzen wir gern auf dem Balkon.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-23"
+    "box": 2,
+    "next_due": "2026-11-14"
   },
   {
     "word": "der Zoll",
@@ -1328,8 +1328,8 @@
     "example": "Am Flughafen mussten wir durch den Zoll.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-23"
+    "box": 2,
+    "next_due": "2026-11-14"
   },
   {
     "word": "die Grenze",
@@ -1337,8 +1337,8 @@
     "example": "Die Grenze war nicht weit entfernt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-23"
+    "box": 2,
+    "next_due": "2026-11-14"
   },
   {
     "word": "das Gepäck",
