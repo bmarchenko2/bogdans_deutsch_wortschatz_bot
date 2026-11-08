@@ -527,8 +527,8 @@
     "example": "Sie hat ein Visum beantragt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-24"
+    "box": 4,
+    "next_due": "2026-12-08"
   },
   {
     "word": "die Bescheinigung",
@@ -536,8 +536,8 @@
     "example": "Ich brauche eine Bescheinigung von der Schule.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-24"
+    "box": 4,
+    "next_due": "2026-12-08"
   },
   {
     "word": "die Steuererklärung",
@@ -914,8 +914,8 @@
     "example": "Die Wahl findet im Herbst statt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-24"
+    "box": 3,
+    "next_due": "2026-11-22"
   },
   {
     "word": "abstimmen",
@@ -1346,8 +1346,8 @@
     "example": "Mein Gepäck ist noch nicht angekommen.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-24"
+    "box": 2,
+    "next_due": "2026-11-15"
   },
   {
     "word": "der Abfall",
@@ -1355,8 +1355,8 @@
     "example": "Der Abfall wird jede Woche abgeholt.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-24"
+    "box": 2,
+    "next_due": "2026-11-15"
   },
   {
     "word": "die Energie",
