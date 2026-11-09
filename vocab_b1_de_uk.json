@@ -545,8 +545,8 @@
     "example": "Die Steuererklärung muss bis Ende März abgegeben werden.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-25"
+    "box": 4,
+    "next_due": "2026-12-09"
   },
   {
     "word": "die Gebühr",
@@ -554,8 +554,8 @@
     "example": "Für den Reisepass fällt eine Gebühr an.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-25"
+    "box": 4,
+    "next_due": "2026-12-09"
   },
   {
     "word": "die Frist",
@@ -923,8 +923,8 @@
     "example": "Die Bürger stimmen über das Gesetz ab.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-25"
+    "box": 3,
+    "next_due": "2026-11-23"
   },
   {
     "word": "die Freizeit",
@@ -932,8 +932,8 @@
     "example": "In meiner Freizeit lese ich gern.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-25"
+    "box": 3,
+    "next_due": "2026-11-23"
   },
   {
     "word": "sich entspannen",
@@ -1364,8 +1364,8 @@
     "example": "Wir sparen Energie, wo es geht.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-24"
+    "box": 2,
+    "next_due": "2026-11-16"
   },
   {
     "word": "erneuerbar",
