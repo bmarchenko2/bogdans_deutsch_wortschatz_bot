@@ -563,8 +563,8 @@
     "example": "Die Frist für die Anmeldung läuft morgen ab.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-26"
+    "box": 4,
+    "next_due": "2026-12-10"
   },
   {
     "word": "die Unterlagen",
@@ -572,8 +572,8 @@
     "example": "Bitte bringen Sie alle Unterlagen mit.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-26"
+    "box": 4,
+    "next_due": "2026-12-10"
   },
   {
     "word": "der Antrag",
@@ -1373,8 +1373,8 @@
     "example": "Erneuerbare Energien werden immer wichtiger.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-25"
+    "box": 2,
+    "next_due": "2026-11-17"
   },
   {
     "word": "großzügig",
@@ -1382,8 +1382,8 @@
     "example": "Er ist sehr großzügig mit seiner Zeit.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-25"
+    "box": 2,
+    "next_due": "2026-11-17"
   },
   {
     "word": "bescheiden",
@@ -1391,7 +1391,7 @@
     "example": "Sie ist trotz ihres Erfolgs sehr bescheiden.",
     "type": "word",
     "status": "learning",
-    "box": 1,
-    "next_due": "2026-10-25"
+    "box": 2,
+    "next_due": "2026-11-17"
   }
 ]
