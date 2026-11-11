@@ -581,8 +581,8 @@
     "example": "Der Antrag wurde genehmigt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-26"
+    "box": 4,
+    "next_due": "2026-12-11"
   },
   {
     "word": "das Einkommen",
@@ -941,8 +941,8 @@
     "example": "Am Wochenende entspanne ich mich.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-26"
+    "box": 3,
+    "next_due": "2026-11-25"
   },
   {
     "word": "der Haushalt",
@@ -950,8 +950,8 @@
     "example": "Er kümmert sich um den Haushalt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-26"
+    "box": 3,
+    "next_due": "2026-11-25"
   },
   {
     "word": "putzen",
@@ -959,8 +959,8 @@
     "example": "Ich putze die Wohnung jeden Samstag.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-26"
+    "box": 3,
+    "next_due": "2026-11-25"
   },
   {
     "word": "die Wäsche",
@@ -968,8 +968,8 @@
     "example": "Ich muss noch die Wäsche waschen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-27"
+    "box": 3,
+    "next_due": "2026-11-25"
   },
   {
     "word": "reparieren",
