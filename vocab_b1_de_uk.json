@@ -32,8 +32,8 @@
     "example": "Ich möchte eine Beschwerde einreichen.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-10-29"
+    "box": 5,
+    "next_due": "2027-01-12"
   },
   {
     "word": "der Vertrag",
@@ -608,8 +608,8 @@
     "example": "Die monatlichen Ausgaben sind hoch.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-29"
+    "box": 4,
+    "next_due": "2026-12-13"
   },
   {
     "word": "das Budget",
@@ -977,8 +977,8 @@
     "example": "Der Techniker hat die Waschmaschine repariert.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-28"
+    "box": 3,
+    "next_due": "2026-11-27"
   },
   {
     "word": "der Müll",
@@ -986,8 +986,8 @@
     "example": "Bitte trenn den Müll richtig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-28"
+    "box": 3,
+    "next_due": "2026-11-27"
   },
   {
     "word": "die Mülltrennung",
@@ -995,8 +995,8 @@
     "example": "Die Mülltrennung ist in der Schweiz sehr wichtig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-29"
+    "box": 3,
+    "next_due": "2026-11-27"
   },
   {
     "word": "recyceln",
