@@ -59,8 +59,8 @@
     "example": "Ich schreibe gerade eine Bewerbung.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-10-31"
+    "box": 5,
+    "next_due": "2027-01-14"
   },
   {
     "word": "der Lebenslauf",
@@ -68,8 +68,8 @@
     "example": "Der Lebenslauf muss aktuell sein.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-10-31"
+    "box": 5,
+    "next_due": "2027-01-14"
   },
   {
     "word": "die Ausbildung",
@@ -617,8 +617,8 @@
     "example": "Wir müssen unser Budget planen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-31"
+    "box": 4,
+    "next_due": "2026-12-15"
   },
   {
     "word": "die Rechnung",
@@ -1031,8 +1031,8 @@
     "example": "Der Geschmack der Suppe ist sehr würzig.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-30"
+    "box": 3,
+    "next_due": "2026-11-29"
   },
   {
     "word": "bio",
@@ -1040,8 +1040,8 @@
     "example": "Wir kaufen meistens Bio-Produkte.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-30"
+    "box": 3,
+    "next_due": "2026-11-29"
   },
   {
     "word": "sich fit halten",
