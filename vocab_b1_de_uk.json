@@ -626,8 +626,8 @@
     "example": "Ich habe die Rechnung schon bezahlt.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-31"
+    "box": 4,
+    "next_due": "2026-12-16"
   },
   {
     "word": "der Kredit",
@@ -635,8 +635,8 @@
     "example": "Sie haben einen Kredit für die Wohnung aufgenommen.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-10-31"
+    "box": 4,
+    "next_due": "2026-12-16"
   },
   {
     "word": "investieren",
@@ -1049,8 +1049,8 @@
     "example": "Er hält sich mit Joggen fit.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-31"
+    "box": 3,
+    "next_due": "2026-11-30"
   },
   {
     "word": "die Mannschaft",
@@ -1058,8 +1058,8 @@
     "example": "Unsere Mannschaft hat das Spiel gewonnen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-31"
+    "box": 3,
+    "next_due": "2026-11-30"
   },
   {
     "word": "der Wettkampf",
@@ -1067,8 +1067,8 @@
     "example": "Der Wettkampf findet am Samstag statt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-10-31"
+    "box": 3,
+    "next_due": "2026-11-30"
   },
   {
     "word": "die Ausstellung",
