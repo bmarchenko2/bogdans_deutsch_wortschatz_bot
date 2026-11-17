@@ -77,8 +77,8 @@
     "example": "Er macht eine Ausbildung als Elektriker.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-01"
+    "box": 5,
+    "next_due": "2027-01-16"
   },
   {
     "word": "der Umzug",
@@ -86,8 +86,8 @@
     "example": "Der Umzug war sehr stressig.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-02"
+    "box": 5,
+    "next_due": "2027-01-16"
   },
   {
     "word": "umziehen",
@@ -95,8 +95,8 @@
     "example": "Wir ziehen nächsten Monat um.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-02"
+    "box": 5,
+    "next_due": "2027-01-16"
   },
   {
     "word": "die Miete",
@@ -644,8 +644,8 @@
     "example": "Er investiert in Aktien.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-02"
+    "box": 4,
+    "next_due": "2026-12-17"
   },
   {
     "word": "die Prüfung",
@@ -1076,8 +1076,8 @@
     "example": "Die Ausstellung im Museum war beeindruckend.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-02"
+    "box": 3,
+    "next_due": "2026-12-01"
   },
   {
     "word": "die Aufführung",
