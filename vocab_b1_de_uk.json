@@ -653,8 +653,8 @@
     "example": "Die Prüfung war schwieriger als erwartet.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-03"
+    "box": 4,
+    "next_due": "2026-12-18"
   },
   {
     "word": "bestehen",
@@ -662,8 +662,8 @@
     "example": "Sie hat die Prüfung bestanden.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-03"
+    "box": 4,
+    "next_due": "2026-12-18"
   },
   {
     "word": "der Abschluss",
@@ -1085,8 +1085,8 @@
     "example": "Die Aufführung im Theater dauerte zwei Stunden.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-02"
+    "box": 3,
+    "next_due": "2026-12-02"
   },
   {
     "word": "das Kunstwerk",
@@ -1094,8 +1094,8 @@
     "example": "Dieses Kunstwerk stammt aus dem 19. Jahrhundert.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-02"
+    "box": 3,
+    "next_due": "2026-12-02"
   },
   {
     "word": "der Anhang",
@@ -1103,8 +1103,8 @@
     "example": "Ich habe die Datei als Anhang geschickt.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-02"
+    "box": 3,
+    "next_due": "2026-12-02"
   },
   {
     "word": "anrufen",
