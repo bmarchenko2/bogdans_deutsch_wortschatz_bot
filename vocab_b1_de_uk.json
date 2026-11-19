@@ -104,8 +104,8 @@
     "example": "Die Miete steigt jedes Jahr.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-04"
+    "box": 5,
+    "next_due": "2027-01-18"
   },
   {
     "word": "der Vermieter",
@@ -113,8 +113,8 @@
     "example": "Der Vermieter hat die Wohnung renoviert.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-04"
+    "box": 5,
+    "next_due": "2027-01-18"
   },
   {
     "word": "die Nachbarschaft",
@@ -671,8 +671,8 @@
     "example": "Nach dem Abschluss sucht er eine Stelle.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-04"
+    "box": 4,
+    "next_due": "2026-12-19"
   },
   {
     "word": "die Fähigkeit",
@@ -1112,8 +1112,8 @@
     "example": "Ich rufe dich später an.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-03"
+    "box": 3,
+    "next_due": "2026-12-03"
   },
   {
     "word": "eine Nachricht hinterlassen",
@@ -1121,8 +1121,8 @@
     "example": "Er hat mir eine Nachricht hinterlassen.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-03"
+    "box": 3,
+    "next_due": "2026-12-03"
   },
   {
     "word": "sich verabreden",
