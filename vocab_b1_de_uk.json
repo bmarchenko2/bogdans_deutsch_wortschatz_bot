@@ -122,8 +122,8 @@
     "example": "Die Nachbarschaft ist sehr ruhig.",
     "type": "word",
     "status": "learning",
-    "box": 4,
-    "next_due": "2026-11-05"
+    "box": 5,
+    "next_due": "2027-01-19"
   },
   {
     "word": "sich gewöhnen an",
@@ -680,8 +680,8 @@
     "example": "Er hat die Fähigkeit, gut zuzuhören.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-04"
+    "box": 4,
+    "next_due": "2026-12-20"
   },
   {
     "word": "sich konzentrieren",
@@ -689,8 +689,8 @@
     "example": "Ich kann mich schwer konzentrieren.",
     "type": "word",
     "status": "learning",
-    "box": 3,
-    "next_due": "2026-11-04"
+    "box": 4,
+    "next_due": "2026-12-20"
   },
   {
     "word": "das Gerät",
@@ -1130,8 +1130,8 @@
     "example": "Wir haben uns für Freitag verabredet.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-04"
+    "box": 3,
+    "next_due": "2026-12-04"
   },
   {
     "word": "das Aussehen",
@@ -1139,8 +1139,8 @@
     "example": "Das Aussehen spielt für sie keine Rolle.",
     "type": "word",
     "status": "learning",
-    "box": 2,
-    "next_due": "2026-11-04"
+    "box": 3,
+    "next_due": "2026-12-04"
   },
   {
     "word": "gepflegt",
